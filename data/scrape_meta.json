@@ -1,0 +1,16 @@
+{
+  "scraped_at": "2026-10-12T22:14:55",
+  "first_chart_date": "2023-01-06",
+  "latest_chart_date": "2026-10-02",
+  "charts_read": 196,
+  "chart_rows": 12525,
+  "distinct_titles_on_charts": 1882,
+  "new_entries": 1578,
+  "excluded_under_min_theaters": 1064,
+  "excluded_over_max_days": 0,
+  "wide_openings": 513,
+  "min_opening_theaters": 1000,
+  "max_opening_days": 7,
+  "movie_pages_read": 513,
+  "movie_pages_missing": []
+}

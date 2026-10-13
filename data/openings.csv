@@ -1,0 +1,514 @@
+movie_path,title,open_chart_date,open_rank,open_theaters,open_week_gross,open_days_in_release
+/movie/M3GAN,M3GAN,2023-01-06,2.0,3509.0,38533510.0,7
+/movie/Shin-Ultraman-(2022-Japan),Shin Ultraman,2023-01-06,12.0,1040.0,601490.0,2
+/movie/Plane-(2023),Plane,2023-01-13,5.0,3023.0,14255622.0,7
+/movie/House-Party-(2023),House Party,2023-01-13,6.0,1400.0,5410508.0,7
+/movie/Missing-(2023),Missing,2023-01-20,5.0,3025.0,11894417.0,7
+/movie/Left-Behind-Rise-of-the-Antichrist-(2022-Canada),Left Behind: Rise of the Antichrist,2023-01-20,15.0,1393.0,611022.0,1
+/movie/Infinity-Pool-(2022-Canada),Infinity Pool,2023-01-27,9.0,1835.0,3432078.0,7
+/movie/Chosen-The-Season-3-Finale-(2023),The Chosen Season 3 Finale,2023-01-27,11.0,1918.0,1666707.0,1
+/movie/80-for-Brady-(2023),80 for Brady,2023-02-03,1.0,3912.0,18969658.0,7
+/movie/Knock-at-the-Cabin-(2023),Knock at the Cabin,2023-02-03,2.0,3643.0,17945995.0,7
+/movie/Amazing-Maurice-The-(2022-United-Kingdom),The Amazing Maurice,2023-02-03,9.0,1717.0,1727488.0,7
+/movie/Winnie-The-Pooh-Blood-and-Honey-(2023-United-Kingdom),Winnie-The-Pooh: Blood and Honey,2023-02-10,13.0,1652.0,839258.0,2
+/movie/Marlowe-(2023),Marlowe,2023-02-10,14.0,2281.0,756795.0,2
+/movie/Magic-Mikes-Last-Dance-(2023),Magic Mike’s Last Dance,2023-02-10,1.0,2172.0,12590454.0,7
+/movie/Ant-Man-and-the-Wasp-Quantumania-(2023),Ant-Man and the Wasp: Quantumania,2023-02-17,1.0,4345.0,135114584.0,7
+/movie/Jesus-Revolution-(2022),Jesus Revolution,2023-02-24,3.0,2475.0,21891391.0,7
+/movie/Cocaine-Bear-(2023),Cocaine Bear,2023-02-24,2.0,3534.0,30268320.0,7
+/movie/Operation-Fortune-Ruse-de-guerre-(2022),Operation Fortune: Ruse de guerre,2023-03-03,6.0,2168.0,4282863.0,7
+/movie/Creed-III-(2023),Creed III,2023-03-03,1.0,4007.0,74185274.0,7
+/movie/65-(2022),65,2023-03-10,3.0,3405.0,16627076.0,7
+/movie/Champions-(2023),Champions,2023-03-10,7.0,3030.0,7559905.0,7
+/movie/Scream-VI-(2023),Scream VI,2023-03-10,1.0,3675.0,58529284.0,7
+/movie/Shazam-Fury-of-the-Gods-(2022),Shazam! Fury of the Gods,2023-03-17,1.0,4071.0,36606765.0,7
+/movie/John-Wick-Chapter-4-(2023),John Wick: Chapter 4,2023-03-24,1.0,3855.0,94668306.0,7
+/movie/Super-Mario-Bros-Movie-The-(2022),The Super Mario Bros. Movie,2023-03-31,1.0,4025.0,58268865.0,2
+/movie/Dungeons-and-Dragons-Honor-Among-Thieves-(2023),Dungeons & Dragons: Honor Among Thieves,2023-03-31,2.0,3855.0,47777540.0,7
+/movie/His-Only-Son-(2023),His Only Son,2023-03-31,4.0,1920.0,7794046.0,7
+/movie/Journey-The-A-Music-Special-(2023),The Journey: A Music Special,2023-03-31,9.0,1074.0,3063855.0,5
+/movie/Air-(2023),AIR,2023-03-31,8.0,3507.0,5747854.0,2
+/movie/Popes-Exorcist-The-(2023),The Pope’s Exorcist,2023-04-14,2.0,3178.0,11623718.0,7
+/movie/Renfield,Renfield,2023-04-14,5.0,3375.0,10512945.0,7
+/movie/Suzume-(2022-Japan),Suzume,2023-04-14,7.0,2170.0,6802343.0,7
+/movie/Mafia-Mamma-(2023),Mafia Mamma,2023-04-14,8.0,2002.0,2826060.0,7
+/movie/Sweetwater-(2023),Sweetwater,2023-04-14,12.0,1204.0,506942.0,7
+/movie/Evil-Dead-Rise-(2023),Evil Dead Rise,2023-04-21,2.0,3402.0,32216195.0,7
+/movie/Guy-Ritchies-The-Covenant-(2023-United-Kingdom),Guy Ritchie’s The Covenant,2023-04-21,3.0,2611.0,8678963.0,7
+/movie/Chevalier-(2023),Chevalier,2023-04-21,11.0,1275.0,2153053.0,7
+/movie/Spirited-Away-Live-on-Stage-(2023-Japan),Spirited Away: Live on Stage,2023-04-21,12.0,1046.0,1226581.0,5
+/movie/Sisu-(2023-Finland),Sisu,2023-04-28,9.0,1006.0,4465199.0,7
+/movie/Big-George-Foreman-The-Miraculous-Story-of-the-Once-and-Future-Heavyweight-Champion-of-the-World-(2023),Big George Foreman: The Miraculous Story of the Once and Future Heavyweight Champion of the World,2023-04-28,10.0,3054.0,3805794.0,7
+/movie/Are-You-There-God-Its-Me-Margaret,"Are You There God? It’s Me, Margaret",2023-04-28,3.0,3343.0,9267414.0,7
+/movie/Guardians-of-the-Galaxy-Vol-3-(2023),Guardians of the Galaxy Vol 3,2023-05-05,1.0,4450.0,152701178.0,7
+/movie/Love-Again-(2023),Love Again,2023-05-05,5.0,2703.0,3456881.0,7
+/movie/Book-Club-The-Next-Chapter-(2023),Book Club: The Next Chapter,2023-05-12,3.0,3508.0,10125220.0,7
+/movie/Hypnotic-(Dir-Robert-Rodriguez),Hypnotic,2023-05-12,6.0,2118.0,3236216.0,7
+/movie/Rally-Road-Racers-(2023),Rally Road Racers,2023-05-12,17.0,1228.0,524232.0,7
+/movie/Fast-X-(2023),Fast X,2023-05-19,1.0,4046.0,84935340.0,7
+/movie/Machine-The-(2023),The Machine,2023-05-26,5.0,2409.0,6958436.0,7
+/movie/About-My-Father-(2023),About My Father,2023-05-26,6.0,2464.0,6724093.0,7
+/movie/Kandahar-(2023),Kandahar,2023-05-26,7.0,2105.0,3471887.0,7
+/movie/Little-Mermaid-The-(2023),The Little Mermaid,2023-05-26,1.0,4320.0,145607067.0,7
+/movie/Spider-Man-Across-the-Spider-Verse-(2023),Spider-Man: Across the Spider-Verse,2023-06-02,1.0,4313.0,170020978.0,7
+/movie/Boogeyman-The-(2023),The Boogeyman,2023-06-02,3.0,3205.0,17820895.0,7
+/movie/Transformers-Rise-of-the-Beasts-(2023),Transformers: Rise of the Beasts,2023-06-09,2.0,3678.0,80622183.0,7
+/movie/Flash-The,The Flash,2023-06-16,1.0,4234.0,72378503.0,7
+/movie/Elemental-(2023),Elemental,2023-06-16,2.0,4035.0,47051915.0,7
+/movie/Blackening-The-(2023),The Blackening,2023-06-16,6.0,1775.0,9241705.0,7
+/movie/No-Hard-Feelings-(2023),No Hard Feelings,2023-06-23,4.0,3208.0,21802364.0,7
+/movie/Indiana-Jones-and-the-Dial-of-Destiny-(2023),Indiana Jones and the Dial of Destiny,2023-06-30,1.0,4600.0,94705329.0,7
+/movie/Sound-of-Freedom-(2023),Sound of Freedom,2023-06-30,3.0,2634.0,21987370.0,3
+/movie/Ruby-Gillman-Teenage-Kraken-(2023),"Ruby Gillman, Teenage Kraken",2023-06-30,8.0,3400.0,8799925.0,7
+/movie/Insidious-The-Red-Door-(2023),Insidious: The Red Door,2023-07-07,1.0,3188.0,45085554.0,7
+/movie/Mission-Impossible-Dead-Reckoning-Part-One-(2023),Mission: Impossible Dead Reckoning Part One,2023-07-07,4.0,4049.0,23803550.0,2
+/movie/Joy-Ride-(2023),Joy Ride,2023-07-07,8.0,2820.0,8041997.0,7
+/movie/Oppenheimer-(2023),Oppenheimer,2023-07-21,2.0,3610.0,127870430.0,7
+/movie/Barbie-(2023),Barbie,2023-07-21,1.0,4243.0,258402851.0,7
+/movie/Haunted-Mansion-(2023),Haunted Mansion,2023-07-28,3.0,3740.0,33049808.0,7
+/movie/Teenage-Mutant-Ninja-Turtles-Mutant-Mayhem-(2023),Teenage Mutant Ninja Turtles: Mutant Mayhem,2023-07-28,7.0,3513.0,15073468.0,2
+/movie/Talk-To-Me-(2022-United-Kingdom),Talk To Me,2023-07-28,6.0,2340.0,15862780.0,7
+/movie/Meg-2-The-Trench-(2023),Meg 2: The Trench,2023-08-04,4.0,3503.0,41436917.0,7
+/movie/Last-Voyage-of-the-Demeter-The,The Last Voyage of the Demeter,2023-08-11,5.0,2715.0,8861500.0,7
+/movie/Blue-Beetle-(2023),Blue Beetle,2023-08-18,1.0,3871.0,33543690.0,7
+/movie/Strays-(2023),Strays,2023-08-18,5.0,3223.0,11476230.0,7
+/movie/Gran-Turismo-Based-on-a-True-Story-(2023),Gran Turismo: Based on a True Story,2023-08-25,1.0,3856.0,22110546.0,7
+/movie/Retribution-(2023),Retribution,2023-08-25,8.0,1750.0,4748404.0,7
+/movie/Hill-The-(2023),The Hill,2023-08-25,10.0,1570.0,3313264.0,7
+/movie/Equalizer-3-The-(2023),The Equalizer 3,2023-09-01,1.0,3965.0,49765408.0,7
+/movie/Nun-II-The-(2023),The Nun II,2023-09-08,1.0,3728.0,41793159.0,7
+/movie/My-Big-Fat-Greek-Wedding-3-(2023),My Big Fat Greek Wedding 3,2023-09-08,3.0,3650.0,13871615.0,7
+/movie/Haunting-in-Venice-A-(2023),A Haunting in Venice,2023-09-15,1.0,3305.0,19052729.0,7
+/movie/Retirement-Plan-The-(2023),The Retirement Plan,2023-09-15,12.0,1175.0,1194840.0,7
+/movie/Expend4bles-(2023),Expend4bles,2023-09-22,2.0,3518.0,10762815.0,7
+/movie/It-Lives-Inside-(2023),It Lives Inside,2023-09-22,7.0,2005.0,3503180.0,7
+/movie/Blind-The-(2023),The Blind,2023-09-22,17.0,1714.0,844985.0,1
+/movie/Saw-X-(2023),Saw X,2023-09-29,2.0,3262.0,24404793.0,7
+/movie/Creator-The-(2023),The Creator,2023-09-29,3.0,3680.0,18830037.0,7
+/movie/Paw-Patrol-The-Mighty-Movie-(2023),PAW Patrol: The Mighty Movie,2023-09-29,1.0,3989.0,27116988.0,7
+/movie/Exorcist-Believer-The-(2023),The Exorcist: Believer,2023-10-06,1.0,3663.0,33926950.0,7
+/movie/Taylor-Swift-The-Eras-Tour-(2023),TAYLOR SWIFT | THE ERAS TOUR,2023-10-13,1.0,3855.0,99183310.0,7
+/movie/Killers-of-the-Flower-Moon-(2023),Killers of the Flower Moon,2023-10-20,2.0,3628.0,31679083.0,7
+/movie/Five-Nights-at-Freddys-(2023),Five Nights at Freddy’s,2023-10-27,1.0,3675.0,94204360.0,7
+/movie/After-Death-(2024),After Death,2023-10-27,4.0,2645.0,7021769.0,7
+/movie/Freelance-(2023),Freelance,2023-10-27,8.0,2057.0,2955296.0,7
+/movie/What-Happens-Later-(2023),What Happens Later,2023-11-03,9.0,1492.0,2231346.0,7
+/movie/Marsh-Kings-Daughter-The-(2023),The Marsh King’s Daughter,2023-11-03,13.0,1055.0,1248298.0,7
+/movie/Marvels-The-(2023),The Marvels,2023-11-10,1.0,4030.0,54824806.0,7
+/movie/Journey-to-Bethlehem-(2023),Journey to Bethlehem,2023-11-10,8.0,2002.0,3317963.0,7
+/movie/Hunger-Games-The-The-Ballad-of-Songbirds-and-Snakes-(2023),The Hunger Games: The Ballad of Songbirds & Snakes,2023-11-17,1.0,3776.0,69558780.0,7
+/movie/Trolls-Band-Together-(2023),Trolls Band Together,2023-11-17,2.0,3870.0,45784065.0,7
+/movie/Thanksgiving-(2023),Thanksgiving,2023-11-17,3.0,3204.0,16929532.0,7
+/movie/Napoleon-(2023),Napoleon,2023-11-17,5.0,3500.0,12113829.0,2
+/movie/Next-Goal-Wins-(US-Film),Next Goal Wins,2023-11-17,9.0,2240.0,4021062.0,7
+/movie/Wish-(2023),Wish,2023-11-17,6.0,3900.0,11911112.0,2
+/movie/Saltburn-(2023),Saltburn,2023-11-17,16.0,1566.0,1362025.0,7
+/movie/Renaissance-A-Film-by-Beyonce-(2023),RENAISSANCE: A FILM BY BEYONCÉ,2023-12-01,1.0,2539.0,23051164.0,7
+/movie/Godzilla-Minus-One-(2023-Japan),Godzilla Minus One,2023-12-01,3.0,2308.0,17001334.0,7
+/movie/Shift-The-(2023),The Shift,2023-12-01,8.0,2450.0,6342800.0,7
+/movie/Silent-Night-(2023),Silent Night,2023-12-01,9.0,1870.0,4124374.0,7
+/movie/Waitress-The-Musical-(2023),Waitress: The Musical,2023-12-01,17.0,1214.0,672105.0,1
+/movie/Boy-and-the-Heron-The-(2023-Japan),The Boy and the Heron,2023-12-08,1.0,2205.0,17970683.0,7
+/movie/Wonka-(2023),Wonka,2023-12-15,1.0,4203.0,57502717.0,7
+/movie/Aquaman-and-the-Lost-Kingdom-(2023),Aquaman and the Lost Kingdom,2023-12-22,1.0,3706.0,58198093.0,7
+/movie/Migration-(2023),Migration,2023-12-22,3.0,3761.0,37092645.0,7
+/movie/Color-Purple-The-(2023),The Color Purple,2023-12-22,4.0,3152.0,32310570.0,4
+/movie/Anyone-But-You-(2023),Anyone But You,2023-12-22,5.0,3055.0,16085414.0,7
+/movie/Boys-in-the-Boat-The-(2023),The Boys in the Boat,2023-12-22,6.0,2557.0,13597924.0,4
+/movie/Iron-Claw-The-(2023),The Iron Claw,2023-12-22,7.0,2774.0,11315147.0,7
+/movie/Ferrari-(2023),Ferrari,2023-12-22,10.0,2330.0,6856707.0,4
+/movie/Night-Swim-(2024),Night Swim,2024-01-05,2.0,3250.0,14510415.0,7
+/movie/Mean-Girls-(2024),Mean Girls,2024-01-12,1.0,3791.0,38348633.0,7
+/movie/Beekeeper-The-(2024),The Beekeeper,2024-01-12,2.0,3303.0,22653563.0,7
+/movie/Book-of-Clarence-The-(2024),The Book of Clarence,2024-01-12,10.0,2010.0,3572549.0,7
+/movie/Soul-(2020),Soul,2024-01-12,20.0,1350.0,714516.0,7
+/movie/I-S-S-(2024),I.S.S.,2024-01-19,7.0,2502.0,4202222.0,7
+/movie/Chosen-The-Season-4-Episodes-1-through-3-(2024),The Chosen: Season 4 Episodes 1-3,2024-01-26,15.0,2183.0,1434170.0,1
+/movie/Argylle-(2024-United-Kingdom),Argylle,2024-02-02,1.0,3605.0,22314145.0,7
+/movie/Lisa-Frankenstein-(2024),Lisa Frankenstein,2024-02-09,4.0,3144.0,5634150.0,7
+/movie/Madame-Web-(2024),Madame Web,2024-02-09,3.0,4013.0,8204619.0,2
+/movie/Bob-Marley-One-Love-(2024),Bob Marley: One Love,2024-02-09,1.0,3536.0,17871205.0,2
+/movie/Turning-Red-(2022),Turning Red,2024-02-09,17.0,1560.0,810341.0,7
+/movie/Land-of-Bad-(2024),Land of Bad,2024-02-16,10.0,1120.0,2612155.0,7
+/movie/Drive-Away-Dolls-(2024),Drive-Away Dolls,2024-02-23,7.0,2280.0,3323570.0,7
+/movie/Ordinary-Angels-(2024),Ordinary Angels,2024-02-23,3.0,3020.0,8711122.0,7
+/movie/Chosen-The-Season-4-Episodes-7-and-8-(2024),The Chosen: Season 4 Episodes 7-8,2024-02-23,18.0,2203.0,764334.0,1
+/movie/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training-(2024-Japan),Demon Slayer: Kimetsu no Yaiba—To the Hashira Training,2024-02-23,2.0,1949.0,13636455.0,7
+/movie/Dune-Part-Two-(2024),Dune: Part Two,2024-03-01,1.0,4071.0,111027668.0,7
+/movie/Cabrini-(2024),Cabrini,2024-03-08,4.0,2840.0,10188926.0,7
+/movie/Imaginary-(2024),Imaginary,2024-03-08,3.0,3118.0,13481668.0,7
+/movie/Kung-Fu-Panda-4-(2024),Kung Fu Panda 4,2024-03-08,1.0,4035.0,77743755.0,7
+/movie/Ark-and-the-Darkness-The-(2024),The Ark and the Darkness,2024-03-15,10.0,1030.0,1706330.0,2
+/movie/Arthur-the-King-(2024),Arthur the King,2024-03-15,3.0,3003.0,10270255.0,7
+/movie/American-Society-of-Magical-Negroes-The-(2024),The American Society of Magical Negroes,2024-03-15,9.0,1147.0,1764755.0,7
+/movie/Luca-(2021),Luca,2024-03-22,12.0,1390.0,895871.0,7
+/movie/Late-Night-with-the-Devil-(2023-Australia),Late Night with the Devil,2024-03-22,6.0,1034.0,4088758.0,7
+/movie/Immaculate-(2024),Immaculate,2024-03-22,4.0,2354.0,7863192.0,7
+/movie/Ghostbusters-Frozen-Empire-(2024),Ghostbusters: Frozen Empire,2024-03-22,1.0,4345.0,57701133.0,7
+/movie/Winnie-the-Pooh-Blood-and-Honey-2-(2024-United-Kingdom),Winnie-the-Pooh: Blood and Honey 2,2024-03-22,17.0,1489.0,533144.0,3
+/movie/Godzilla-x-Kong-The-New-Empire-(2024),Godzilla x Kong: The New Empire,2024-03-29,1.0,3861.0,103337630.0,7
+/movie/Monkey-Man-(2024),Monkey Man,2024-04-05,2.0,3029.0,13665255.0,7
+/movie/First-Omen-The-(2024),The First Omen,2024-04-05,4.0,3375.0,10857113.0,7
+/movie/Arcadian-(2024),Arcadian,2024-04-12,15.0,1100.0,727417.0,7
+/movie/Civil-War-(2024),Civil War,2024-04-12,1.0,3838.0,33756662.0,7
+/movie/Long-Game-The-(2024),The Long Game,2024-04-12,9.0,1030.0,1760198.0,7
+/movie/Spy-x-Family-Code-White-(2023-Japan),Spy x Family Code: White,2024-04-19,6.0,2009.0,5975120.0,7
+/movie/Ministry-of-Ungentlemanly-Warfare-The-(2024),The Ministry of Ungentlemanly Warfare,2024-04-19,4.0,2845.0,11588667.0,7
+/movie/Abigail-(2024),Abigail,2024-04-19,2.0,3384.0,13537755.0,7
+/movie/Boy-Kills-World-(2024),Boy Kills World,2024-04-26,11.0,1993.0,2206469.0,7
+/movie/Unsung-Hero-(2024),Unsung Hero,2024-04-26,2.0,2832.0,10143890.0,7
+/movie/Challengers-(2024),Challengers,2024-04-26,1.0,3477.0,21819429.0,7
+/movie/Tarot-(2024),Tarot,2024-05-03,4.0,3104.0,8565419.0,7
+/movie/Fall-Guy-The-(2024),The Fall Guy,2024-05-03,1.0,4002.0,35996920.0,7
+/movie/Not-Another-Church-Movie-(2024),Not Another Church Movie,2024-05-10,15.0,1108.0,536276.0,7
+/movie/Kingdom-of-the-Planet-of-the-Apes-(2024),Kingdom of the Planet of the Apes,2024-05-10,1.0,4075.0,75239501.0,7
+/movie/Strangers-The-Chapter-1-(2024),The Strangers: Chapter 1,2024-05-17,3.0,2856.0,15733988.0,7
+/movie/Back-to-Black-(2024-United-Kingdom),Back to Black,2024-05-17,6.0,2010.0,3899020.0,7
+/movie/IF-(2024),IF,2024-05-17,1.0,4041.0,42566792.0,7
+/movie/Garfield-Movie-The-(2024),The Garfield Movie,2024-05-24,2.0,4035.0,37572331.0,7
+/movie/Sight-(2024),Sight,2024-05-24,7.0,2100.0,4803110.0,7
+/movie/Furiosa-A-Mad-Max-Saga-(2024),Furiosa: A Mad Max Saga,2024-05-24,1.0,3804.0,38917619.0,7
+/movie/Haikyu-The-Movie-Decisive-Battle-at-the-Garbage-Dump-(2024-Japan),Haikyu!! The Dumpster Battle,2024-05-31,7.0,1119.0,4963552.0,7
+/movie/In-a-Violent-Nature-(2024-Canada),In a Violent Nature,2024-05-31,8.0,1426.0,3001870.0,7
+/movie/Jesus-Thirsts-The-Miracle-of-the-Eucharist-(2024),Jesus Thirsts: The Miracle of the Eucharist,2024-05-31,9.0,1112.0,2141272.0,3
+/movie/Ezra-(2024),Ezra,2024-05-31,10.0,1320.0,1782031.0,7
+/movie/Summer-Camp-(2024),Summer Camp,2024-05-31,12.0,1787.0,1745552.0,7
+/movie/Bad-Boys-Ride-or-Die-(2024),Bad Boys: Ride or Die,2024-06-07,1.0,3885.0,79240120.0,7
+/movie/Watchers-The-(2024),The Watchers,2024-06-07,4.0,3351.0,10000279.0,7
+/movie/Inside-Out-2-(2024),Inside Out 2,2024-06-14,1.0,4440.0,255183116.0,7
+/movie/Bikeriders-The-(2024),The Bikeriders,2024-06-21,3.0,2642.0,12904765.0,7
+/movie/Thelma-(2024),Thelma,2024-06-21,8.0,1290.0,3787667.0,7
+/movie/Exorcism-The-(2024),The Exorcism,2024-06-21,9.0,2240.0,3669531.0,7
+/movie/Quiet-Place-A-Day-One-(2024),A Quiet Place: Day One,2024-06-28,2.0,3708.0,73358859.0,7
+/movie/Despicable-Me-4-(2024),Despicable Me 4,2024-06-28,3.0,4030.0,47600325.0,2
+/movie/Horizon-An-American-Saga-Chapter-1-(2024),Horizon: An American Saga Chapter 1,2024-06-28,4.0,3334.0,16710707.0,7
+/movie/Sound-of-Hope-The-Story-of-Possum-Trot-(2024),Sound of Hope: The Story of Possum Trot,2024-06-28,8.0,2200.0,3591283.0,1
+/movie/Maxxxine-(2024),MaXXXine,2024-07-05,4.0,2450.0,9705060.0,7
+/movie/Longlegs-(2024),Longlegs,2024-07-12,2.0,2510.0,32950532.0,7
+/movie/Fly-Me-to-the-Moon-(2024),Fly Me to the Moon,2024-07-12,5.0,3356.0,13020144.0,7
+/movie/Disciples-in-the-Moonlight-(2024),Disciples in the Moonlight,2024-07-12,22.0,1102.0,155576.0,7
+/movie/Twisters-(2024),Twisters,2024-07-19,1.0,4151.0,119631140.0,7
+/movie/Fabulous-Four-The-(2024),The Fabulous Four,2024-07-26,7.0,1045.0,1912096.0,7
+/movie/Deadpool-and-Wolverine-(2024),Deadpool & Wolverine,2024-07-26,1.0,4210.0,298575919.0,7
+/movie/Trap-(2024),Trap,2024-08-02,3.0,3181.0,21951303.0,7
+/movie/Harold-and-the-Purple-Crayon-(2024),Harold and the Purple Crayon,2024-08-02,6.0,3325.0,9788803.0,7
+/movie/It-Ends-With-Us-(2024),It Ends With Us,2024-08-09,2.0,3611.0,73784697.0,7
+/movie/Borderlands-(2024),Borderlands,2024-08-09,5.0,3125.0,11192237.0,7
+/movie/Cuckoo-(2024-Germany),Cuckoo,2024-08-09,9.0,1503.0,4450887.0,7
+/movie/Alien-Romulus-(2024),Alien: Romulus,2024-08-16,1.0,3885.0,56439383.0,7
+/movie/My-Penguin-Friend-(2024),My Penguin Friend,2024-08-16,11.0,1083.0,1593062.0,7
+/movie/Ryans-World-the-Movie-Titan-Universe-Adventure-(2024),Ryan’s World the Movie: Titan Universe Adventure,2024-08-16,15.0,1285.0,545012.0,7
+/movie/Blink-Twice-(2024),Blink Twice,2024-08-23,4.0,3067.0,10653550.0,7
+/movie/Forge-The-(2024),The Forge,2024-08-23,5.0,1818.0,9713273.0,7
+/movie/Crow-The-(2024),The Crow,2024-08-23,8.0,2752.0,6331351.0,7
+/movie/Strange-Darling-(2024),Strange Darling,2024-08-23,12.0,1135.0,1844504.0,7
+/movie/Afraid-(2024),Afraid,2024-08-30,9.0,3003.0,5197743.0,7
+/movie/Reagan-(2024),Reagan,2024-08-30,3.0,2754.0,13300040.0,7
+/movie/Front-Room-The-(2024),The Front Room,2024-09-06,,2095.0,2243965.0,7
+/movie/Beetlejuice-Beetlejuice-(2024),Beetlejuice Beetlejuice,2024-09-06,1.0,4575.0,136406079.0,7
+/movie/Gods-Not-Dead-In-God-We-Trust-(2024),God’s Not Dead: In God We Trust,2024-09-06,,1327.0,362215.0,1
+/movie/Speak-No-Evil-(2024),Speak No Evil,2024-09-13,2.0,3375.0,15554590.0,7
+/movie/Am-I-Racist-(2024),Am I Racist?,2024-09-13,4.0,1517.0,6471507.0,7
+/movie/Killers-Game-The-(2024),The Killer’s Game,2024-09-13,6.0,2623.0,3826997.0,7
+/movie/Transformers-One-(2024),Transformers One,2024-09-20,2.0,3978.0,29864458.0,7
+/movie/Never-Let-Go-(2024),Never Let Go,2024-09-20,4.0,2667.0,6052523.0,7
+/movie/Substance-The-(2024),The Substance,2024-09-20,6.0,1949.0,5058960.0,7
+/movie/Megalopolis-(2024),Megalopolis,2024-09-27,5.0,1854.0,5450408.0,7
+/movie/Wild-Robot-The-(2024),The Wild Robot,2024-09-27,1.0,3962.0,45284060.0,7
+/movie/Joker-Folie-a-Deux-(2024),Joker: Folie à Deux,2024-10-04,1.0,4102.0,44556473.0,7
+/movie/White-Bird-(2024),White Bird: A Wonder Story,2024-10-04,6.0,1018.0,2290780.0,7
+/movie/Monster-Summer-(2024),Monster Summer,2024-10-04,14.0,1193.0,926562.0,7
+/movie/Terrifier-3-(2024),Terrifier 3,2024-10-11,1.0,2514.0,26907151.0,7
+/movie/Piece-by-Piece-(2024),Piece by Piece,2024-10-11,5.0,1865.0,5501985.0,7
+/movie/My-Hero-Academia-the-Movie-Youre-Next-(2024-Japan),My Hero Academia the Movie: You’re Next,2024-10-11,8.0,1845.0,3986437.0,7
+/movie/Apprentice-The-(2024),The Apprentice,2024-10-11,10.0,1740.0,2577012.0,7
+/movie/Goodrich-(2024),Goodrich,2024-10-18,13.0,1055.0,1044772.0,7
+/movie/Smile-2-(2024),Smile 2,2024-10-18,1.0,3619.0,31314005.0,7
+/movie/Venom-The-Last-Dance-(2024),Venom: The Last Dance,2024-10-25,1.0,4131.0,63947430.0,7
+/movie/Conclave-(2024),Conclave,2024-10-25,3.0,1753.0,9921960.0,7
+/movie/Hitpig-(2024),Hitpig!,2024-11-01,11.0,2055.0,1598991.0,7
+/movie/Absolution-(2024),Absolution,2024-11-01,10.0,1500.0,2055559.0,7
+/movie/Here-(2024),Here,2024-11-01,5.0,2647.0,7076565.0,7
+/movie/Heretic-(2024),Heretic,2024-11-08,2.0,3221.0,15269794.0,7
+/movie/Best-Christmas-Pageant-Ever-The-(2024-Canada),The Best Christmas Pageant Ever,2024-11-08,3.0,3020.0,14552121.0,7
+/movie/Elevation-(2024),Elevation,2024-11-08,10.0,1416.0,1743658.0,7
+/movie/Weekend-in-Taipei-(2024-France),Weekend in Taipei,2024-11-08,16.0,1031.0,552325.0,7
+/movie/Red-One-(2024),Red One,2024-11-15,1.0,4032.0,39624947.0,7
+/movie/Wicked-(2024),Wicked,2024-11-22,1.0,3888.0,182021850.0,7
+/movie/Moana-2-(2024),Moana 2,2024-11-22,2.0,4200.0,85654441.0,2
+/movie/Gladiator-II-(2024),Gladiator II,2024-11-22,3.0,3580.0,80465245.0,7
+/movie/Bonhoeffer-Pastor-Spy-Assassin-(2024-Belgium),Bonhoeffer: Pastor. Spy. Assassin,2024-11-22,5.0,1900.0,7345557.0,7
+/movie/Pushpa-The-Rule-Part-2-(2024-India),Pushpa: The Rule — Part 2,2024-11-29,5.0,1245.0,4500000.0,1
+/movie/For-King-and-Country-A-Drummer-Boy-Christmas-Live-(2024),For King + Country: A Drummer Boy Christmas,2024-11-29,14.0,1527.0,563148.0,1
+/movie/Y2K-(2024),Y2K,2024-12-06,7.0,2108.0,3078906.0,7
+/movie/Werewolves-(2024),Werewolves,2024-12-06,9.0,1351.0,1477361.0,7
+/movie/Lord-of-the-Rings-The-The-War-of-the-Rohirrim-(2024),The Lord of the Rings: The War of the Rohirrim,2024-12-13,6.0,2602.0,6100171.0,7
+/movie/Kraven-the-Hunter-(2024),Kraven the Hunter,2024-12-13,3.0,3211.0,14334701.0,7
+/movie/Mufasa-The-Lion-King-(2024),Mufasa: The Lion King,2024-12-20,2.0,4100.0,76383537.0,7
+/movie/Nosferatu-(2024),Nosferatu,2024-12-20,5.0,2911.0,19154475.0,2
+/movie/Complete-Unknown-A-(2024),A Complete Unknown,2024-12-20,6.0,2835.0,11574043.0,2
+/movie/Homestead-(2024),Homestead,2024-12-20,7.0,1886.0,9700375.0,7
+/movie/Babygirl-(2024),Babygirl,2024-12-20,10.0,2094.0,2847840.0,2
+/movie/Fire-Inside-The-(2024),The Fire Inside,2024-12-20,12.0,2006.0,2299705.0,2
+/movie/Sonic-the-Hedgehog-3-(2024),Sonic the Hedgehog 3,2024-12-20,1.0,3769.0,99553692.0,7
+/movie/Den-of-Thieves-2-Pantera-(2025),Den of Thieves 2: Pantera,2025-01-10,1.0,3008.0,19575028.0,7
+/movie/One-of-Them-Days-(2025),One of Them Days,2025-01-17,2.0,2675.0,17090885.0,7
+/movie/Wolf-Man-(2025),Wolf Man,2025-01-17,3.0,3354.0,14409710.0,7
+/movie/Flight-Risk-(2025),Flight Risk,2025-01-24,1.0,3161.0,15307918.0,7
+/movie/Brave-the-Dark-(2025),Brave the Dark,2025-01-24,12.0,2230.0,3128862.0,7
+/movie/Presence-(2025),Presence,2025-01-24,7.0,1750.0,4543377.0,7
+/movie/Dog-Man-(2025),Dog Man,2025-01-31,1.0,3885.0,40401650.0,7
+/movie/Companion-(2025),Companion,2025-01-31,2.0,3285.0,12467009.0,7
+/movie/Valiant-One-(2025),Valiant One,2025-01-31,18.0,1275.0,1027402.0,7
+/movie/Love-Hurts-(2025),Love Hurts,2025-02-07,3.0,3055.0,7918760.0,7
+/movie/Heart-Eyes-(2025-New-Zealand),Heart Eyes,2025-02-07,2.0,3102.0,11530801.0,7
+/movie/Captain-America-Brave-New-World-(2025),Captain America: Brave New World,2025-02-14,1.0,4105.0,113005738.0,7
+/movie/Paddington-in-Peru-(2024-United-Kingdom),Paddington in Peru,2025-02-14,2.0,3890.0,18754414.0,7
+/movie/Unbreakable-Boy-The-(2025),The Unbreakable Boy,2025-02-21,7.0,1687.0,3332392.0,7
+/movie/Monkey-The-(2025),The Monkey,2025-02-21,2.0,3200.0,18241349.0,7
+/movie/Riff-Raff-(2025),Riff Raff,2025-02-28,9.0,1004.0,1320973.0,7
+/movie/Last-Breath-(2025-United-Kingdom),Last Breath,2025-02-28,2.0,3018.0,10456885.0,7
+/movie/In-the-Lost-Lands-(2025),In the Lost Lands,2025-03-07,10.0,1370.0,1522145.0,7
+/movie/Rule-Breakers-(2025),Rule Breakers,2025-03-07,9.0,2044.0,2209215.0,7
+/movie/Mickey-17-(2025),Mickey 17,2025-03-07,1.0,3807.0,25777032.0,7
+/movie/Opus-(2025),Opus,2025-03-14,12.0,1764.0,1521347.0,7
+/movie/Black-Bag-(2025),Black Bag,2025-03-14,3.0,2705.0,10480265.0,7
+/movie/Novocaine-(2025),Novocaine,2025-03-14,1.0,3365.0,12009062.0,7
+/movie/Last-Supper-The-(2025),The Last Supper,2025-03-14,6.0,1575.0,3990434.0,7
+/movie/Ash-(2025),Ash,2025-03-21,15.0,1136.0,956233.0,7
+/movie/Alto-Knights-The-(2025),The Alto Knights,2025-03-21,6.0,2651.0,4400740.0,7
+/movie/Disneys-Snow-White-(2025),Disney’s Snow White,2025-03-21,1.0,4200.0,52614583.0,7
+/movie/Penguin-Lessons-The-(2025),The Penguin Lessons,2025-03-28,11.0,1017.0,1812761.0,7
+/movie/Death-of-a-Unicorn-(2025),Death of a Unicorn,2025-03-28,5.0,3050.0,8086343.0,7
+/movie/Woman-in-the-Yard-The-(2025),The Woman in the Yard,2025-03-28,4.0,2842.0,12166985.0,7
+/movie/Chosen-The-Last-Supper-Part-1-(2025),The Chosen: Last Supper — Part 1,2025-03-28,3.0,1644.0,16059761.0,7
+/movie/Working-Man-A-(2025),A Working Man,2025-03-28,1.0,3262.0,20539948.0,7
+/movie/Hell-of-a-Summer-(2025),Hell of a Summer,2025-04-04,9.0,1255.0,2451794.0,7
+/movie/Chosen-The-Last-Supper-Part-2-(2025),The Chosen: Last Supper — Part 2,2025-04-04,2.0,2313.0,10057548.0,7
+/movie/Minecraft-Movie-A-(2025),A Minecraft Movie,2025-04-04,1.0,4263.0,200361733.0,7
+/movie/King-of-Kings-The-(2025-South-Korea),The King of Kings,2025-04-11,2.0,3200.0,28065248.0,7
+/movie/Amateur-The-(2025),The Amateur,2025-04-11,3.0,3400.0,20122711.0,7
+/movie/Warfare-(2025),Warfare,2025-04-11,4.0,2670.0,12265197.0,7
+/movie/Drop-(2025),Drop,2025-04-11,5.0,3085.0,10131650.0,7
+/movie/Chosen-The-Last-Supper-Part-3-(2025),The Chosen: Last Supper — Part 3,2025-04-11,6.0,2297.0,9421067.0,7
+/movie/Sneaks-(2025),Sneaks,2025-04-18,15.0,1500.0,765700.0,7
+/movie/Wedding-Banquet-The-(2025),The Wedding Banquet,2025-04-18,12.0,1142.0,1385249.0,7
+/movie/Sinners-(2025),Sinners,2025-04-18,1.0,3308.0,77526427.0,7
+/movie/Until-Dawn-(2025),Until Dawn,2025-04-25,5.0,3055.0,10558890.0,7
+/movie/Accountant-2-The-(2025),The Accountant 2,2025-04-25,3.0,3610.0,31682922.0,7
+/movie/Thunderbolts-(2025),Thunderbolts*,2025-05-02,1.0,4330.0,95354195.0,7
+/movie/Juliet-and-Romeo-(2025),Juliet & Romeo,2025-05-09,14.0,1350.0,416942.0,7
+/movie/Shadow-Force-(2025),Shadow Force,2025-05-09,6.0,2170.0,2915221.0,7
+/movie/Clown-in-a-Cornfield-(2025),Clown in a Cornfield,2025-05-09,5.0,2277.0,4996779.0,7
+/movie/Fight-or-Flight-(2025),Fight or Flight,2025-05-09,8.0,2153.0,2724914.0,7
+/movie/Hurry-Up-Tomorrow-(2025),Hurry Up Tomorrow,2025-05-16,6.0,2020.0,4073964.0,7
+/movie/Final-Destination-Bloodlines-(2025),Final Destination: Bloodlines,2025-05-16,1.0,3523.0,70132397.0,7
+/movie/Mission-Impossible-The-Final-Reckoning-(2025),Mission: Impossible—The Final Reckoning,2025-05-23,2.0,3857.0,95318108.0,7
+/movie/Last-Rodeo-The-(2025),The Last Rodeo,2025-05-23,6.0,2205.0,8607185.0,7
+/movie/Lilo-and-Stitch-(2025),Lilo & Stitch,2025-05-23,1.0,4410.0,217121482.0,7
+/movie/Karate-Kid-Legends-(2025),Karate Kid: Legends,2025-05-30,3.0,3809.0,26740816.0,7
+/movie/Bring-Her-Back-(2025),Bring Her Back,2025-05-30,5.0,2449.0,10586501.0,7
+/movie/From-the-World-of-John-Wick-Ballerina-(2025),From the World of John Wick: Ballerina,2025-06-06,2.0,3409.0,32432471.0,7
+/movie/Dan-Da-Dan-Evil-Eye-(2025-Japan),Dan Da Dan: Evil Eye,2025-06-06,8.0,1085.0,4391155.0,7
+/movie/Dangerous-Animals-(2025-Australia),Dangerous Animals,2025-06-06,11.0,1636.0,2225674.0,7
+/movie/How-to-Train-Your-Dragon-(2025),How to Train Your Dragon,2025-06-13,1.0,4356.0,123485295.0,7
+/movie/Materialists-(2025),Materialists,2025-06-13,3.0,2844.0,17442534.0,7
+/movie/Elio-(2025),Elio,2025-06-20,3.0,3750.0,31525747.0,7
+/movie/28-Years-Later-(2025),28 Years Later,2025-06-20,2.0,3444.0,40653547.0,7
+/movie/F1-The-Movie-(2025),F1: The Movie,2025-06-27,1.0,3661.0,83507286.0,7
+/movie/Jurassic-World-Rebirth-(2025),Jurassic World Rebirth,2025-06-27,2.0,4063.0,55804630.0,2
+/movie/M3GAN-2-0-(2025),M3GAN 2.0,2025-06-27,6.0,3133.0,14750035.0,7
+/movie/Superman-(2025),Superman,2025-07-11,1.0,4135.0,177783462.0,7
+/movie/Jujutsu-Kaisen-Hidden-Inventory-Premature-Death-The-Movie-(2025-Japan),Jujutsu Kaisen: Hidden Inventory/Premature Death — The Movie,2025-07-11,8.0,1187.0,2553710.0,2
+/movie/I-Know-What-You-Did-Last-Summer-(2025),I Know What You Did Last Summer,2025-07-18,3.0,3206.0,18452006.0,7
+/movie/Smurfs-(2025),Smurfs,2025-07-18,4.0,3504.0,17387352.0,7
+/movie/Eddington-(2025),Eddington,2025-07-18,7.0,2111.0,6439692.0,7
+/movie/Saiyaara-(2025-India),Saiyaara,2025-07-18,11.0,2225.0,1959480.0,7
+/movie/Home-The-(2025),The Home,2025-07-25,13.0,1015.0,1365687.0,7
+/movie/Together-(2025),Together,2025-07-25,8.0,2302.0,4056502.0,2
+/movie/Fantastic-Four-The-First-Steps-(2025),The Fantastic Four: First Steps,2025-07-25,1.0,4125.0,158427635.0,7
+/movie/Bad-Guys-2-The-(2025),The Bad Guys 2,2025-08-01,2.0,3852.0,33009480.0,7
+/movie/Naked-Gun-The-(2025),The Naked Gun,2025-08-01,3.0,3344.0,24634738.0,7
+/movie/Sketch-(2025),Sketch,2025-08-01,10.0,2006.0,2491406.0,2
+/movie/Weapons-(2025),Weapons,2025-08-08,1.0,3202.0,64044723.0,7
+/movie/Freakier-Friday-(2025),Freakier Friday,2025-08-08,2.0,3975.0,40276337.0,7
+/movie/Nobody-2-(2025),Nobody 2,2025-08-15,4.0,3260.0,12846585.0,7
+/movie/KPop-Demon-Hunters-(2025),KPop Demon Hunters Sing-Along Event,2025-08-22,2.0,1700.0,19200000.0,7
+/movie/Relay-(2025),Relay,2025-08-22,13.0,1483.0,2565551.0,7
+/movie/Honey-Dont-(2025),Honey Don’t,2025-08-22,10.0,1317.0,4196240.0,7
+/movie/Toxic-Avenger-Unrated-The-(2025),The Toxic Avenger Unrated,2025-08-29,11.0,1995.0,2626518.0,7
+/movie/Roses-The-(2025-United-Kingdom),The Roses,2025-08-29,5.0,2700.0,9484311.0,7
+/movie/Caught-Stealing-(2025),Caught Stealing,2025-08-29,2.0,3578.0,11700662.0,7
+/movie/Light-of-the-World-(2025),Light of the World,2025-09-05,8.0,2075.0,3061119.0,7
+/movie/Hamilton-(2020),Hamilton,2025-09-05,2.0,1825.0,12757531.0,7
+/movie/Conjuring-The-Last-Rites-(2025),The Conjuring: Last Rites,2025-09-05,1.0,3802.0,104953084.0,7
+/movie/Spinal-Tap-II-The-End-Continues-(2025),Spinal Tap II: The End Continues,2025-09-12,9.0,1920.0,2147082.0,7
+/movie/Long-Walk-The-(2025),The Long Walk,2025-09-12,4.0,2845.0,16419334.0,7
+/movie/Downton-Abbey-The-Grand-Finale-(2025-United-Kingdom),Downton Abbey: The Grand Finale,2025-09-12,3.0,3694.0,25325620.0,7
+/movie/Demon-Slayer-Kimetsu-no-Yaiba-The-Movie-Infinity-Castle-(2025-Japan),Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle,2025-09-12,1.0,3315.0,87430034.0,7
+/movie/Senior-The-(2025),The Senior,2025-09-19,8.0,2405.0,3742018.0,7
+/movie/Big-Bold-Beautiful-Journey-A-(2025),A Big Bold Beautiful Journey,2025-09-19,6.0,3330.0,4672586.0,7
+/movie/Him-(2025),Him,2025-09-19,2.0,3168.0,17143925.0,7
+/movie/Strangers-The-Chapter-2-(2025),The Strangers: Chapter 2,2025-09-26,5.0,2690.0,7892194.0,7
+/movie/Gabbys-Dollhouse-The-Movie-(2025),Gabby’s Dollhouse: The Movie,2025-09-26,2.0,3500.0,16409390.0,7
+/movie/One-Battle-After-Another-(2025),One Battle After Another,2025-09-26,1.0,3634.0,31626146.0,7
+/movie/Taylor-Swift-The-Official-Release-Party-of-a-Showgirl-(2025),Taylor Swift | The Official Release Party of a Showgirl,2025-10-03,1.0,3702.0,34062774.0,7
+/movie/Smashing-Machine-The-(2025),The Smashing Machine,2025-10-03,3.0,3345.0,8010457.0,7
+/movie/Good-Boy-(2025),Good Boy,2025-10-03,8.0,1650.0,3503007.0,7
+/movie/Bone-Lake-(2025),Bone Lake,2025-10-03,14.0,1059.0,1133631.0,7
+/movie/Tron-Ares-(2025),Tron: Ares,2025-10-10,1.0,4000.0,43438812.0,7
+/movie/Roofman-(2025),Roofman,2025-10-10,2.0,3362.0,11816460.0,7
+/movie/Soul-on-Fire-(2025),Soul on Fire,2025-10-10,6.0,1720.0,4241483.0,7
+/movie/Kiss-of-the-Spider-Woman-(2025),Kiss of the Spider Woman,2025-10-10,12.0,1331.0,1281706.0,7
+/movie/Pets-on-a-Train-(2025-France),Pets on a Train,2025-10-17,12.0,1350.0,1079824.0,7
+/movie/Truth-and-Treason-(2025),Truth & Treason,2025-10-17,6.0,2106.0,3872274.0,7
+/movie/Good-Fortune-(2025),Good Fortune,2025-10-17,3.0,2990.0,8698756.0,7
+/movie/Black-Phone-2-(2025),Black Phone 2,2025-10-17,1.0,3411.0,36053395.0,7
+/movie/Shelby-Oaks-(2025),Shelby Oaks,2025-10-24,7.0,1823.0,3180063.0,7
+/movie/Springsteen-Deliver-Me-From-Nowhere-(2025),Springsteen: Deliver Me From Nowhere,2025-10-24,4.0,3460.0,12470557.0,7
+/movie/Regretting-You-(2025),Regretting You,2025-10-24,2.0,3393.0,19434159.0,7
+/movie/Chainsaw-Man-The-Movie-Reze-Arc-(2025-Japan),Chainsaw Man — The Movie: Reze Arc,2025-10-24,1.0,3003.0,24769447.0,7
+/movie/Stitch-Head-(2025-United-Kingdom),Stitch Head,2025-10-24,21.0,2162.0,395756.0,2
+/movie/Christy-(2025),Christy,2025-11-07,11.0,2011.0,1785069.0,7
+/movie/Nuremberg-(2025),Nuremberg,2025-11-07,5.0,1802.0,6055900.0,7
+/movie/Sarahs-Oil-(2025),Sarah’s Oil,2025-11-07,4.0,2410.0,6316109.0,7
+/movie/Die-My-Love-(2025),"Die, My Love",2025-11-07,8.0,1983.0,3998151.0,7
+/movie/Predator-Badlands-(2025),Predator: Badlands,2025-11-07,1.0,3725.0,53304860.0,7
+/movie/Keeper-(2025),Keeper,2025-11-14,7.0,1950.0,3341564.0,7
+/movie/Running-Man-The-(2025),The Running Man,2025-11-14,2.0,3534.0,21248103.0,7
+/movie/Now-You-See-Me-Now-You-Dont-(2025),Now You See Me: Now You Don’t,2025-11-14,1.0,3403.0,27709120.0,7
+/movie/Wicked-For-Good-(2025),Wicked: For Good,2025-11-21,1.0,4115.0,207468280.0,7
+/movie/Rental-Family-(2025),Rental Family,2025-11-21,6.0,1925.0,5290084.0,7
+/movie/Sisu-Road-to-Revenge-(2025),SISU: Road to Revenge,2025-11-21,7.0,2222.0,3312514.0,7
+/movie/Eternity-(2025),Eternity,2025-11-21,9.0,1348.0,2066807.0,2
+/movie/Zootopia-2-(2025),Zootopia 2,2025-11-21,2.0,4000.0,58541521.0,2
+/movie/Kill-Bill-The-Whole-Bloody-Affair-(2025),Kill Bill: The Whole Bloody Affair,2025-12-05,6.0,1198.0,4659207.0,7
+/movie/Five-Nights-at-Freddys-2-(2025),Five Nights at Freddy’s 2,2025-12-05,1.0,3412.0,75981015.0,7
+/movie/Jujutsu-Kaisen-Execution-(2025-Japan),Jujutsu Kaisen: Execution,2025-12-05,4.0,1833.0,12411720.0,7
+/movie/Merrily-We-Roll-Along-(2025),Merrily We Roll Along,2025-12-05,11.0,1084.0,1990320.0,7
+/movie/Fackham-Hall-(2025-United-Kingdom),Fackham Hall,2025-12-05,14.0,1112.0,893235.0,7
+/movie/Ella-McCay-(2025),Ella McCay,2025-12-12,7.0,2500.0,3094612.0,7
+/movie/Avatar-Fire-and-Ash-(2025),Avatar: Fire and Ash,2025-12-19,1.0,3800.0,153827123.0,7
+/movie/David-(2025),David,2025-12-19,2.0,3118.0,37061318.0,7
+/movie/Housemaid-The-(2025),The Housemaid,2025-12-19,4.0,3042.0,31014874.0,7
+/movie/SpongeBob-Movie-The-Search-for-Squarepants-(2025),The SpongeBob Movie: Search for Squarepants,2025-12-19,5.0,3557.0,26982289.0,7
+/movie/Marty-Supreme-(2025),Marty Supreme,2025-12-19,7.0,2668.0,10410674.0,7
+/movie/Anaconda-(2025),Anaconda,2025-12-19,9.0,3509.0,9053879.0,1
+/movie/Song-Sung-Blue-(2025),Song Sung Blue,2025-12-19,10.0,2578.0,4425455.0,1
+/movie/We-Bury-the-Dead-(2026-Australia),We Bury the Dead,2026-01-02,11.0,1172.0,3168277.0,7
+/movie/Primate-(2026),Primate,2026-01-09,3.0,2964.0,14595712.0,7
+/movie/Greenland-2-Migration-(2026),Greenland 2: Migration,2026-01-09,6.0,2710.0,10756318.0,7
+/movie/I-Was-a-Stranger-(2025-Jordan),I Was a Stranger,2026-01-09,13.0,1400.0,1714939.0,7
+/movie/Charlie-the-Wonderdog-(2026-Canada),Charlie the Wonderdog,2026-01-16,15.0,1230.0,1231195.0,7
+/movie/28-Years-Later-The-Bone-Temple-(2026),28 Years Later: The Bone Temple,2026-01-16,2.0,3506.0,17150529.0,7
+/movie/Return-to-Silent-Hill-(2026-France),Return to Silent Hill,2026-01-23,7.0,2000.0,4126199.0,7
+/movie/Mercy-(2026),Mercy,2026-01-23,1.0,3468.0,14677819.0,7
+/movie/Shelter-(2026),Shelter,2026-01-30,4.0,2726.0,7561795.0,7
+/movie/Melania-(2026),Melania,2026-01-30,3.0,1778.0,10974945.0,7
+/movie/Iron-Lung-(2026),Iron Lung,2026-01-30,2.0,3015.0,24815104.0,7
+/movie/Send-Help-(2026),Send Help,2026-01-30,1.0,3475.0,25839748.0,7
+/movie/Whistle-(2026-Canada),Whistle,2026-02-06,16.0,1200.0,997773.0,7
+/movie/Strangers-The-Chapter-3-(2026),The Strangers: Chapter 3,2026-02-06,8.0,2565.0,4678865.0,7
+/movie/Dracula-A-Love-Tale-(2025-France),Dracula,2026-02-06,5.0,2050.0,6000539.0,7
+/movie/Stray-Kids-The-DominATE-experience-(2026-South-Korea),Stray Kids: The DominATE experience,2026-02-06,4.0,1724.0,6783069.0,7
+/movie/Solo-Mio-(2026),Solo Mio,2026-02-06,2.0,3052.0,10532356.0,7
+/movie/Cold-Storage-(2026),Cold Storage,2026-02-13,15.0,1041.0,1357069.0,7
+/movie/Good-Luck-Have-Fun-Dont-Die-(2026),"Good Luck, Have Fun, Don’t Die",2026-02-13,7.0,1610.0,5030121.0,7
+/movie/Crime-101-(2026),Crime 101,2026-02-13,3.0,3161.0,18932777.0,7
+/movie/GOAT-(2026),GOAT,2026-02-13,2.0,3863.0,41301328.0,7
+/movie/Wuthering-Heights-(2026),“Wuthering Heights”,2026-02-13,1.0,3682.0,45812668.0,7
+/movie/Psycho-Killer-(2026),Psycho Killer,2026-02-20,12.0,1100.0,2063827.0,7
+/movie/How-to-Make-a-Killing-(2026),How to Make a Killing,2026-02-20,6.0,1625.0,4726690.0,7
+/movie/I-Can-Only-Imagine-2-(2026),I Can Only Imagine 2,2026-02-20,3.0,3105.0,10125956.0,7
+/movie/Scream-7-(2026),Scream 7,2026-02-27,1.0,3540.0,76074160.0,7
+/movie/Bride-The-(2026),The Bride!,2026-03-06,3.0,3304.0,9224766.0,7
+/movie/Hoppers-(2026),Hoppers,2026-03-06,1.0,4000.0,58300900.0,7
+/movie/undertone-(2026-Canada),undertone,2026-03-13,3.0,2570.0,12198263.0,7
+/movie/Reminders-of-Him-(2026),Reminders of Him,2026-03-13,2.0,3402.0,25173855.0,7
+/movie/Pout-Pout-Fish-The-(2025-Australia),The Pout-Pout Fish,2026-03-20,9.0,1860.0,1793837.0,7
+/movie/Ready-or-Not-2-Here-I-Come-(2026),Ready or Not 2: Here I Come,2026-03-20,4.0,3010.0,12277870.0,7
+/movie/Project-Hail-Mary-(2026),Project Hail Mary,2026-03-20,1.0,4007.0,109764644.0,7
+/movie/Super-Mario-Galaxy-Movie-The-(2026),The Super Mario Galaxy Movie,2026-03-27,2.0,3821.0,59113455.0,2
+/movie/They-Will-Kill-You-(2026),They Will Kill You,2026-03-27,4.0,2778.0,6826928.0,7
+/movie/Forbidden-Fruits-(2026),Forbidden Fruits,2026-03-27,11.0,1525.0,1765893.0,7
+/movie/Drama-The-(2026),The Drama,2026-04-03,3.0,3087.0,22141844.0,7
+/movie/Great-Awakening-A-(2026),A Great Awakening,2026-04-03,5.0,1289.0,3617271.0,7
+/movie/You-Me-and-Tuscany-(2026),"You, Me & Tuscany",2026-04-10,4.0,3151.0,10570700.0,7
+/movie/Faces-of-Death-(2026),Faces of Death,2026-04-10,8.0,1600.0,2148534.0,7
+/movie/Normal-(2026),Normal,2026-04-17,7.0,2060.0,3527303.0,7
+/movie/Lee-Cronins-The-Mummy-(2026),Lee Cronin’s The Mummy,2026-04-17,3.0,3304.0,17821688.0,7
+/movie/Desert-Warrior-(2026-Saudi-Arabia),Desert Warrior,2026-04-24,14.0,1010.0,665904.0,7
+/movie/Fuze-(2026-United-Kingdom),Fuze,2026-04-24,10.0,1164.0,1352959.0,7
+/movie/Michael-(2026),Michael,2026-04-24,1.0,3955.0,129803832.0,7
+/movie/Over-Your-Dead-Body-(2026),Over Your Dead Body,2026-04-24,8.0,1550.0,1895800.0,7
+/movie/Devil-Wears-Prada-2-The-(2026),The Devil Wears Prada 2,2026-05-01,1.0,4150.0,101844258.0,7
+/movie/Hokum-(2026),Hokum,2026-05-01,5.0,1885.0,9153410.0,7
+/movie/Animal-Farm-(2026),Animal Farm,2026-05-01,6.0,2600.0,4336753.0,7
+/movie/Deep-Water-(2026-New-Zealand),Deep Water,2026-05-01,8.0,1675.0,2893765.0,7
+/movie/Mortal-Kombat-II-(2026),Mortal Kombat II,2026-05-08,3.0,3503.0,48832532.0,7
+/movie/Sheep-Detectives-The-(2026),The Sheep Detectives,2026-05-08,4.0,3457.0,20341083.0,7
+/movie/Billie-Eilish-Hit-Me-Hard-and-Soft-The-Tour-(2026),Billie Eilish: Hit Me Hard and Soft—The Tour,2026-05-08,7.0,2613.0,8495124.0,7
+/movie/Obsession-(2026),Obsession,2026-05-15,2.0,2615.0,30384010.0,7
+/movie/In-the-Grey-(2026),In the Grey,2026-05-15,9.0,2018.0,4106961.0,7
+/movie/Is-God-Is-(2026),Is God Is,2026-05-15,10.0,1510.0,3168327.0,7
+/movie/Star-Wars-The-Mandalorian-and-Grogu-(2026),Star Wars: The Mandalorian and Grogu,2026-05-22,1.0,4300.0,112368604.0,7
+/movie/Passenger-(2026),Passenger,2026-05-22,6.0,2534.0,12669276.0,7
+/movie/I-Love-Boosters-(2026),I Love Boosters,2026-05-22,8.0,1750.0,5975269.0,7
+/movie/Backrooms-(2026),Backrooms,2026-05-29,1.0,3442.0,109114925.0,7
+/movie/Breadwinner-The-(2026),The Breadwinner,2026-05-29,5.0,3252.0,10438057.0,7
+/movie/Pressure-(2026-United-Kingdom),Pressure,2026-05-29,7.0,1829.0,8152540.0,7
+/movie/Amazing-Digital-Circus-The-The-Last-Act-(2026),The Amazing Digital Circus: The Last Act,2026-05-29,8.0,2221.0,7880784.0,1
+/movie/Scary-Movie-(2026),Scary Movie,2026-06-05,1.0,3490.0,70090642.0,7
+/movie/Masters-of-the-Universe-(2026),Masters of the Universe,2026-06-05,4.0,3677.0,38062097.0,7
+/movie/Disclosure-Day-(2026),Disclosure Day,2026-06-12,1.0,3824.0,61283500.0,7
+/movie/Furious-The-(2026-Hong-Kong),The Furious,2026-06-12,8.0,1251.0,4140543.0,7
+/movie/Stop-That-Train-(2026),Stop! That! Train!,2026-06-12,9.0,1161.0,2924102.0,7
+/movie/Leviticus-(2026-Australia),Leviticus,2026-06-19,8.0,1076.0,4437184.0,7
+/movie/Death-of-Robin-Hood-The-(2026),The Death of Robin Hood,2026-06-19,9.0,1762.0,4190763.0,7
+/movie/Toy-Story-5-(2026),Toy Story 5,2026-06-19,1.0,4425.0,227241642.0,7
+/movie/Supergirl-(2026),Supergirl,2026-06-26,2.0,3602.0,48871610.0,7
+/movie/Minions-and-Monsters-(2026),Minions & Monsters,2026-06-26,3.0,3740.0,25041395.0,2
+/movie/Jackass-Best-and-Last-(2026),Jackass: Best and Last,2026-06-26,6.0,2855.0,11990097.0,7
+/movie/Young-Washington-(2026),Young Washington,2026-07-03,3.0,2725.0,26658092.0,7
+/movie/Evil-Dead-Burn-(2026),Evil Dead Burn,2026-07-10,4.0,3004.0,19150512.0,7
+/movie/Gail-Daughtry-and-the-Celebrity-Sex-Pass-(2026),Gail Daughtry and the Celebrity Sex Pass,2026-07-10,11.0,1000.0,1213603.0,7
+/movie/Moana-(2026),Moana,2026-07-10,1.0,3875.0,63081410.0,7
+/movie/Odyssey-The-(2026),The Odyssey,2026-07-17,1.0,3919.0,199371800.0,7
+/movie/Hadestown-The-Musical-(2026),Hadestown: The Musical,2026-07-24,5.0,1949.0,16202680.0,7
+/movie/Motor-City-(2026),Motor City,2026-07-24,10.0,1600.0,2281109.0,7
+/movie/Spider-Man-Brand-New-Day-(2026),Spider-Man: Brand New Day,2026-07-31,1.0,4487.0,510088528.0,7
+/movie/One-Night-Only-(2026),One Night Only,2026-08-07,3.0,3012.0,7860065.0,7
+/movie/Super-Troopers-3-(2026),Super Troopers 3,2026-08-07,6.0,2760.0,5277258.0,7
+/movie/Ice-Cream-Man-(2026),Ice Cream Man,2026-08-07,8.0,1671.0,2590000.0,7
+/movie/Nimrods-(2026),Nimrods,2026-08-14,15.0,1012.0,1200400.0,7
+/movie/Brink-of-War-The-(2026),The Brink of War,2026-08-14,6.0,2083.0,3859672.0,7
+/movie/Six-The-Musical-Live-(2025-United-Kingdom),Six: The Musical Live!,2026-08-14,5.0,1462.0,4095355.0,7
+/movie/Paw-Patrol-The-Dino-Movie-(2026),PAW Patrol: The Dino Movie,2026-08-14,4.0,3545.0,26308555.0,7
+/movie/End-of-Oak-Street-The-(2026),The End of Oak Street,2026-08-14,3.0,3446.0,28966152.0,7
+/movie/Insidious-Out-of-the-Further-(2026),Insidious: Out of the Further,2026-08-21,2.0,3303.0,33530107.0,7
+/movie/Mutiny-(2026-United-Kingdom),Mutiny,2026-08-21,6.0,2703.0,10478665.0,7
+/movie/Magic-Faraway-Tree-The-(2025-United-Kingdom),The Magic Faraway Tree,2026-08-21,11.0,1611.0,1873592.0,7
+/movie/Spa-Weekend-(2026),Spa Weekend,2026-08-21,8.0,2009.0,4460695.0,7
+/movie/Idiots-(2026),Idiots,2026-08-28,15.0,1110.0,962694.0,7
+/movie/Buddy-(2026),Buddy,2026-08-28,6.0,1277.0,8517574.0,7
+/movie/Dog-Stars-The-(2026),The Dog Stars,2026-08-28,5.0,3330.0,10337035.0,7
+/movie/Coyote-v-Acme-(2026),Coyote vs. Acme,2026-08-28,2.0,3575.0,22504814.0,7
+/movie/Fall-2-Deadpoint-(2026),Fall 2: Deadpoint,2026-08-28,19.0,1502.0,573026.0,2
+/movie/By-Any-Means-(2026),By Any Means,2026-09-04,4.0,2903.0,10987764.0,7
+/movie/Onslaught-(2026),Onslaught,2026-09-04,13.0,1918.0,2773370.0,7
+/movie/Hope-(2026-South-Korea),Hope,2026-09-04,15.0,1560.0,1696800.0,2
+/movie/Practical-Magic-2-(2026),Practical Magic 2,2026-09-11,1.0,4146.0,37876587.0,7
+/movie/Oasis-Dont-Look-Back-in-Anger-(2026),Oasis: Don’t Look Back in Anger,2026-09-11,11.0,1225.0,1729671.0,7
+/movie/Fix-The-(2026),The Fix,2026-09-11,16.0,1205.0,1025222.0,7
+/movie/Uprising-The-(2026),The Uprising,2026-09-11,9.0,2068.0,4585780.0,7
+/movie/Runner-(2026-Dir-Scott-Waugh),Runner,2026-09-11,4.0,2568.0,8806827.0,7
+/movie/Resident-Evil-(2026),Resident Evil,2026-09-18,1.0,3684.0,80176247.0,7
+/movie/Daniel-and-the-Fiery-Furnace-(2026),Daniel and the Fiery Furnace,2026-09-18,6.0,1525.0,4689086.0,7
+/movie/Shaun-the-Sheep-The-Beast-of-Mossy-Bottom-(2026-United-Kingdom),Shaun the Sheep: The Beast of Mossy Bottom,2026-09-18,11.0,2183.0,2401800.0,7
+/movie/Weight-The-(2026),The Weight,2026-09-18,8.0,1504.0,3075048.0,7
+/movie/Forgotten-Island-(2026),Forgotten Island,2026-09-25,5.0,3548.0,16431200.0,7
+/movie/Primetime-(2026),Primetime,2026-09-25,4.0,2874.0,26085746.0,7
+/movie/Heart-of-the-Beast-(2026),Heart of the Beast,2026-09-25,3.0,3435.0,27413098.0,7
+/movie/Verity-(2026),Verity,2026-10-02,1.0,3510.0,42379051.0,7
+/movie/Digger-(2026),Digger,2026-10-02,5.0,3321.0,11232754.0,7
+/movie/Beware-Boiuna-(2026),Beware Boiúna,2026-10-02,14.0,1121.0,775016.0,7

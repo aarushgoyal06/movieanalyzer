@@ -1,0 +1,1152 @@
+{
+  "scrape": {
+    "scraped_at": "2026-10-12T22:14:55",
+    "first_chart_date": "2023-01-06",
+    "latest_chart_date": "2026-10-02",
+    "charts_read": 196,
+    "chart_rows": 12525,
+    "distinct_titles_on_charts": 1882,
+    "new_entries": 1578,
+    "excluded_under_min_theaters": 1064,
+    "excluded_over_max_days": 0,
+    "wide_openings": 513,
+    "min_opening_theaters": 1000,
+    "max_opening_days": 7,
+    "movie_pages_read": 513,
+    "movie_pages_missing": []
+  },
+  "data_checks": {
+    "movies": 513,
+    "movie_weeks": 3855,
+    "no_weekly_table": [],
+    "page_week1_missing": 0,
+    "week1_gross_matches_chart_within_1pct": 513,
+    "week1_gross_mismatches": {},
+    "week_number_vs_date_mismatches": [],
+    "films_with_week_gaps": 16,
+    "missing_weeks_total": 206,
+    "films_with_week_gaps_examples": [
+      "Cabrini",
+      "The Chosen: Season 4 Episodes 1-3",
+      "Dangerous Animals",
+      "Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle",
+      "Godzilla Minus One",
+      "The Home",
+      "How to Make a Killing",
+      "KPop Demon Hunters Sing-Along Event",
+      "Kiss of the Spider Woman",
+      "Longlegs"
+    ],
+    "duplicate_movie_weeks": 0,
+    "excluded": {
+      "event cinema (special engagement, concert or stage recording, event distributor)": [
+        "Shin Ultraman",
+        "Left Behind: Rise of the Antichrist",
+        "The Chosen Season 3 Finale",
+        "Winnie-The-Pooh: Blood and Honey",
+        "The Journey: A Music Special",
+        "Spirited Away: Live on Stage",
+        "The Blind",
+        "TAYLOR SWIFT | THE ERAS TOUR",
+        "RENAISSANCE: A FILM BY BEYONC\u00c9",
+        "Waitress: The Musical",
+        "The Chosen: Season 4 Episodes 1-3",
+        "The Chosen: Season 4 Episodes 7-8",
+        "The Ark and the Darkness",
+        "Winnie-the-Pooh: Blood and Honey 2",
+        "Jesus Thirsts: The Miracle of the Eucharist",
+        "Disciples in the Moonlight",
+        "God\u2019s Not Dead: In God We Trust",
+        "For King + Country: A Drummer Boy Christmas",
+        "The Chosen: Last Supper \u2014 Part 1",
+        "The Chosen: Last Supper \u2014 Part 2",
+        "The Chosen: Last Supper \u2014 Part 3",
+        "KPop Demon Hunters Sing-Along Event",
+        "Taylor Swift | The Official Release Party of a Showgirl",
+        "Stray Kids: The DominATE experience",
+        "Billie Eilish: Hit Me Hard and Soft\u2014The Tour",
+        "The Amazing Digital Circus: The Last Act",
+        "Hadestown: The Musical",
+        "Six: The Musical Live!"
+      ],
+      "older film (re-release or late theatrical debut)": [
+        "Soul",
+        "Turning Red",
+        "Luca",
+        "Hamilton",
+        "Kill Bill: The Whole Bloody Affair"
+      ],
+      "platform release (opened limited, expanded wide mid-week)": [
+        "Saltburn",
+        "Marty Supreme"
+      ]
+    },
+    "weeks_estimated_from_weekend": 76,
+    "films_with_estimated_week": 71,
+    "rereleases_cut_from_runs": [
+      "Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle",
+      "Godzilla Minus One",
+      "Longlegs",
+      "Oppenheimer",
+      "Sinners",
+      "Spider-Man: Across the Spider-Verse",
+      "Suzume",
+      "Wicked"
+    ],
+    "dropped_week1_not_yet_complete": []
+  },
+  "sample": {
+    "films": 478,
+    "films_by_opening_year": {
+      "2023": 107,
+      "2024": 123,
+      "2025": 136,
+      "2026": 112
+    },
+    "partial_week_openers": 34,
+    "partial_week_opening_days": {
+      "1": 4,
+      "2": 26,
+      "3": 1,
+      "4": 3
+    },
+    "finished_runs": 431,
+    "incomplete_runs": 47,
+    "incomplete_run_cutoff": "2026-06-12",
+    "median_week1_gross": 11559734.0,
+    "median_week1_theaters": 3003.0,
+    "median_final_gross_finished": 21474035.0,
+    "median_multiple_finished": 1.7901970755432575,
+    "multiple_q25_q75_finished": [
+      1.4915950067099988,
+      2.1423039751069886
+    ],
+    "share_multiple_below_1_5_finished": 0.25754060324825984,
+    "films_multiple_3_or_more_finished": 17,
+    "median_weeks_reported_finished": 7.0,
+    "weeks_reported_q25_q75_finished": [
+      5.0,
+      11.0
+    ],
+    "genre_groups": {
+      "Horror": 95,
+      "Action": 88,
+      "Drama": 70,
+      "Thriller/Suspense": 57,
+      "Animation": 54,
+      "Comedy": 49,
+      "Adventure": 18,
+      "Musical": 14,
+      "Black Comedy": 13,
+      "Romantic Comedy": 13,
+      "Documentary": 4,
+      "Western": 2,
+      "Reality": 1
+    },
+    "opening_buckets": {
+      "Under $10M": 210,
+      "$10M-40M": 167,
+      "$40M-100M": 65,
+      "$100M+": 36
+    },
+    "biggest_week1": [
+      {
+        "display_title": "Spider-Man: Brand New Day (2026)",
+        "week1_gross": 510088528.0
+      },
+      {
+        "display_title": "Deadpool & Wolverine (2024)",
+        "week1_gross": 298575919.0
+      },
+      {
+        "display_title": "The Super Mario Bros. Movie (2023)",
+        "week1_gross": 260823700.0
+      },
+      {
+        "display_title": "Barbie (2023)",
+        "week1_gross": 258402851.0
+      },
+      {
+        "display_title": "Inside Out 2 (2024)",
+        "week1_gross": 255183116.0
+      }
+    ],
+    "longest_runs_finished": [
+      {
+        "display_title": "Oppenheimer (2023)",
+        "last_week": 35
+      },
+      {
+        "display_title": "Barbie (2023)",
+        "last_week": 27
+      },
+      {
+        "display_title": "The Substance (2024)",
+        "last_week": 26
+      },
+      {
+        "display_title": "One Battle After Another (2025)",
+        "last_week": 26
+      },
+      {
+        "display_title": "The Boy and the Heron (\u541b\u305f\u3061\u306f\u3069\u3046\u751f\u304d\u308b\u304b) (2023)",
+        "last_week": 24
+      }
+    ]
+  },
+  "decay_relative_to_week1": {
+    "1": {
+      "n": 478.0,
+      "q25": 1.0,
+      "median": 1.0,
+      "q75": 1.0,
+      "observable": 478.0,
+      "share_reporting": 1.0,
+      "median_counting_departed_as_zero": 1.0
+    },
+    "2": {
+      "n": 474.0,
+      "q25": 0.3268,
+      "median": 0.429,
+      "q75": 0.5179,
+      "observable": 475.0,
+      "share_reporting": 0.9979,
+      "median_counting_departed_as_zero": 0.4282
+    },
+    "3": {
+      "n": 446.0,
+      "q25": 0.105,
+      "median": 0.2001,
+      "q75": 0.286,
+      "observable": 472.0,
+      "share_reporting": 0.9449,
+      "median_counting_departed_as_zero": 0.1927
+    },
+    "4": {
+      "n": 403.0,
+      "q25": 0.0393,
+      "median": 0.1025,
+      "q75": 0.1642,
+      "observable": 468.0,
+      "share_reporting": 0.8611,
+      "median_counting_departed_as_zero": 0.0818
+    },
+    "5": {
+      "n": 367.0,
+      "q25": 0.0171,
+      "median": 0.0527,
+      "q75": 0.0989,
+      "observable": 462.0,
+      "share_reporting": 0.7944,
+      "median_counting_departed_as_zero": 0.0335
+    },
+    "6": {
+      "n": 313.0,
+      "q25": 0.0101,
+      "median": 0.0307,
+      "q75": 0.0642,
+      "observable": 459.0,
+      "share_reporting": 0.6819,
+      "median_counting_departed_as_zero": 0.0108
+    },
+    "7": {
+      "n": 257.0,
+      "q25": 0.0059,
+      "median": 0.0153,
+      "q75": 0.0394,
+      "observable": 454.0,
+      "share_reporting": 0.5661,
+      "median_counting_departed_as_zero": 0.0022
+    },
+    "8": {
+      "n": 221.0,
+      "q25": 0.0028,
+      "median": 0.0079,
+      "q75": 0.0264,
+      "observable": 451.0,
+      "share_reporting": 0.49,
+      "median_counting_departed_as_zero": 0.0
+    },
+    "9": {
+      "n": 165.0,
+      "q25": 0.0021,
+      "median": 0.0054,
+      "q75": 0.0188,
+      "observable": 447.0,
+      "share_reporting": 0.3691,
+      "median_counting_departed_as_zero": 0.0
+    },
+    "10": {
+      "n": 138.0,
+      "q25": 0.001,
+      "median": 0.0041,
+      "q75": 0.0098,
+      "observable": 444.0,
+      "share_reporting": 0.3108,
+      "median_counting_departed_as_zero": 0.0
+    },
+    "11": {
+      "n": 112.0,
+      "q25": 0.0007,
+      "median": 0.0026,
+      "q75": 0.0069,
+      "observable": 443.0,
+      "share_reporting": 0.2528,
+      "median_counting_departed_as_zero": 0.0
+    },
+    "12": {
+      "n": 90.0,
+      "q25": 0.0006,
+      "median": 0.002,
+      "q75": 0.0052,
+      "observable": 442.0,
+      "share_reporting": 0.2036,
+      "median_counting_departed_as_zero": 0.0
+    },
+    "13": {
+      "n": 66.0,
+      "q25": 0.0005,
+      "median": 0.0018,
+      "q75": 0.0033,
+      "observable": 440.0,
+      "share_reporting": 0.15,
+      "median_counting_departed_as_zero": 0.0
+    },
+    "14": {
+      "n": 51.0,
+      "q25": 0.0005,
+      "median": 0.0012,
+      "q75": 0.0023,
+      "observable": 437.0,
+      "share_reporting": 0.1167,
+      "median_counting_departed_as_zero": 0.0
+    },
+    "15": {
+      "n": 39.0,
+      "q25": 0.0004,
+      "median": 0.0012,
+      "q75": 0.0023,
+      "observable": 436.0,
+      "share_reporting": 0.0894,
+      "median_counting_departed_as_zero": 0.0
+    }
+  },
+  "week_over_week_change": {
+    "2": {
+      "n": 477.0,
+      "median": -0.5726,
+      "q25": -0.6735,
+      "q75": -0.4831
+    },
+    "3": {
+      "n": 449.0,
+      "median": -0.5382,
+      "q25": -0.7233,
+      "q75": -0.4343
+    },
+    "4": {
+      "n": 406.0,
+      "median": -0.5226,
+      "q25": -0.6832,
+      "q75": -0.3912
+    },
+    "5": {
+      "n": 369.0,
+      "median": -0.5199,
+      "q25": -0.6569,
+      "q75": -0.3822
+    },
+    "6": {
+      "n": 313.0,
+      "median": -0.5027,
+      "q25": -0.649,
+      "q75": -0.3402
+    },
+    "7": {
+      "n": 258.0,
+      "median": -0.5166,
+      "q25": -0.66,
+      "q75": -0.376
+    },
+    "8": {
+      "n": 221.0,
+      "median": -0.517,
+      "q25": -0.652,
+      "q75": -0.3425
+    },
+    "9": {
+      "n": 166.0,
+      "median": -0.5127,
+      "q25": -0.6305,
+      "q75": -0.3479
+    },
+    "10": {
+      "n": 138.0,
+      "median": -0.5333,
+      "q25": -0.625,
+      "q75": -0.3543
+    },
+    "11": {
+      "n": 113.0,
+      "median": -0.5049,
+      "q25": -0.6459,
+      "q75": -0.297
+    },
+    "12": {
+      "n": 90.0,
+      "median": -0.4661,
+      "q25": -0.6318,
+      "q75": -0.1957
+    },
+    "13": {
+      "n": 67.0,
+      "median": -0.468,
+      "q25": -0.5832,
+      "q75": -0.2081
+    },
+    "14": {
+      "n": 50.0,
+      "median": -0.4506,
+      "q25": -0.5906,
+      "q75": -0.2353
+    },
+    "15": {
+      "n": 38.0,
+      "median": -0.354,
+      "q25": -0.5566,
+      "q75": 0.0595
+    }
+  },
+  "week2_change": {
+    "films": 475,
+    "median": -0.5718069111328243,
+    "mean": -0.5662520379973971,
+    "q25": -0.6737140316207011,
+    "q75": -0.48246873564973103,
+    "median_without_holiday": -0.5865051303151396,
+    "median_with_holiday": -0.5017424738574706,
+    "films_with_holiday_in_week2": 77,
+    "share_dropping_more_than_50pct": 0.6989473684210527,
+    "share_dropping_more_than_60pct": 0.4147368421052632,
+    "share_dropping_more_than_70pct": 0.20421052631578948,
+    "share_dropping_less_than_30pct": 0.05263157894736842,
+    "share_increasing": 0.010526315789473684,
+    "films_with_no_week2": 1,
+    "steepest": [
+      {
+        "title": "Nimrods (2026)",
+        "change": -1.0
+      },
+      {
+        "title": "Jujutsu Kaisen: Hidden Inventory/Premature Death \u2014 The Movie (2025)",
+        "change": -0.9907
+      },
+      {
+        "title": "What Happens Later (2023)",
+        "change": -0.9789
+      },
+      {
+        "title": "Desert Warrior (2026)",
+        "change": -0.9424
+      },
+      {
+        "title": "Sweetwater (2023)",
+        "change": -0.9316
+      },
+      {
+        "title": "Not Another Church Movie (2024)",
+        "change": -0.9255
+      },
+      {
+        "title": "Fuze (2026)",
+        "change": -0.9078
+      },
+      {
+        "title": "Christy (2025)",
+        "change": -0.9061
+      }
+    ],
+    "gentlest": [
+      {
+        "title": "Saiyaara (2025)",
+        "change": 0.7959,
+        "holiday_in_week2": NaN
+      },
+      {
+        "title": "Obsession (2026)",
+        "change": 0.5789,
+        "holiday_in_week2": "Memorial Day"
+      },
+      {
+        "title": "Anyone But You (2023)",
+        "change": 0.127,
+        "holiday_in_week2": "Christmas-New Year's"
+      },
+      {
+        "title": "Buddy (2026)",
+        "change": 0.086,
+        "holiday_in_week2": "Labor Day"
+      },
+      {
+        "title": "Heart Eyes (2025)",
+        "change": 0.0736,
+        "holiday_in_week2": "Presidents Day"
+      },
+      {
+        "title": "The Housemaid (2025)",
+        "change": -0.0385,
+        "holiday_in_week2": "Christmas-New Year's"
+      },
+      {
+        "title": "Wonka (2023)",
+        "change": -0.0757,
+        "holiday_in_week2": "Christmas-New Year's"
+      },
+      {
+        "title": "Mufasa: The Lion King (2024)",
+        "change": -0.1048,
+        "holiday_in_week2": "Christmas-New Year's"
+      }
+    ]
+  },
+  "week2_hold_vs_later_decay": {
+    "films": 449,
+    "spearman_week2_vs_weeks_3_6_change": 0.39433754905080065,
+    "by_week2_quartile": {
+      "weakest": {
+        "films": 113.0,
+        "median_week2_retention": 0.2763,
+        "median_change_weeks_3_6": -0.7125
+      },
+      "second": {
+        "films": 112.0,
+        "median_week2_retention": 0.3992,
+        "median_change_weeks_3_6": -0.5733
+      },
+      "third": {
+        "films": 112.0,
+        "median_week2_retention": 0.4758,
+        "median_change_weeks_3_6": -0.5577
+      },
+      "strongest": {
+        "films": 112.0,
+        "median_week2_retention": 0.5935,
+        "median_change_weeks_3_6": -0.4617
+      }
+    },
+    "spearman_week2_vs_multiple_finished": 0.8533885501537797
+  },
+  "by_opening_size": {
+    "Under $10M": {
+      "films": 210,
+      "median_week1_gross": 3549926.0,
+      "median_week1_theaters": 1840.0,
+      "median_retention": {
+        "2": 0.3648484400062454,
+        "3": 0.09358962395210313,
+        "4": 0.032120853608729016,
+        "6": 0.008673566219465016,
+        "8": 0.0028564875069262787,
+        "10": 0.0006078979412086529
+      },
+      "share_still_in_release": {
+        "4": 0.6893203883495146,
+        "6": 0.4020100502512563,
+        "8": 0.2205128205128205,
+        "10": 0.10526315789473684,
+        "12": 0.07936507936507936
+      },
+      "last_week_with_half_still_in_release": 5,
+      "finished_runs": 186,
+      "median_multiple_finished": 1.4882276103934058,
+      "median_weeks_reported_finished": 5.0
+    },
+    "$10M-40M": {
+      "films": 167,
+      "median_week1_gross": 17820895.0,
+      "median_week1_theaters": 3262.0,
+      "median_retention": {
+        "2": 0.47261118006930003,
+        "3": 0.25445334174846934,
+        "4": 0.13469214011574365,
+        "6": 0.03047866554799341,
+        "8": 0.005529878961772699,
+        "10": 0.0025861193580310657
+      },
+      "share_still_in_release": {
+        "4": 0.9938650306748467,
+        "6": 0.8322981366459627,
+        "8": 0.5159235668789809,
+        "10": 0.25161290322580643,
+        "12": 0.13548387096774195
+      },
+      "last_week_with_half_still_in_release": 8,
+      "finished_runs": 152,
+      "median_multiple_finished": 1.991783347505085,
+      "median_weeks_reported_finished": 8.0
+    },
+    "$40M-100M": {
+      "films": 65,
+      "median_week1_gross": 58529284.0,
+      "median_week1_theaters": 3855.0,
+      "median_retention": {
+        "2": 0.41055539347798664,
+        "3": 0.22523085952119948,
+        "4": 0.14362805649155155,
+        "6": 0.04203303476905676,
+        "8": 0.011393001062081971,
+        "10": 0.0044692620525583655
+      },
+      "share_still_in_release": {
+        "4": 1.0,
+        "6": 1.0,
+        "8": 0.9682539682539683,
+        "10": 0.6825396825396826,
+        "12": 0.36507936507936506
+      },
+      "last_week_with_half_still_in_release": 10,
+      "finished_runs": 60,
+      "median_multiple_finished": 1.9740246681997498,
+      "median_weeks_reported_finished": 11.0
+    },
+    "$100M+": {
+      "films": 36,
+      "median_week1_gross": 162439987.5,
+      "median_week1_theaters": 4205.0,
+      "median_retention": {
+        "2": 0.4542785469241946,
+        "3": 0.2469053693475089,
+        "4": 0.14744162545846035,
+        "6": 0.06496794235278525,
+        "8": 0.025078231227054444,
+        "10": 0.006630262897190079
+      },
+      "share_still_in_release": {
+        "4": 1.0,
+        "6": 1.0,
+        "8": 1.0,
+        "10": 1.0,
+        "12": 0.8857142857142857
+      },
+      "last_week_with_half_still_in_release": 14,
+      "finished_runs": 33,
+      "median_multiple_finished": 2.1326095558295846,
+      "median_weeks_reported_finished": 14.0
+    }
+  },
+  "by_genre": {
+    "Horror": {
+      "films": 95,
+      "median_week1_gross": 12166985.0,
+      "median_week1_theaters": 2856.0,
+      "median_retention": {
+        "2": 0.41715055031034376,
+        "3": 0.20984907561310134,
+        "4": 0.08564948003657809,
+        "6": 0.028614989772400904,
+        "8": 0.004335287579024042,
+        "10": 0.0021020812789849168
+      },
+      "share_still_in_release": {
+        "4": 0.8817204301075269,
+        "6": 0.5913978494623656,
+        "8": 0.37362637362637363,
+        "10": 0.18888888888888888,
+        "12": 0.08888888888888889
+      },
+      "last_week_with_half_still_in_release": 6,
+      "finished_runs": 88,
+      "median_multiple_finished": 1.7497942888190527,
+      "median_weeks_reported_finished": 6.0
+    },
+    "Action": {
+      "films": 88,
+      "median_week1_gross": 22212345.5,
+      "median_week1_theaters": 3456.0,
+      "median_retention": {
+        "2": 0.40229860768044334,
+        "3": 0.19417810253434115,
+        "4": 0.10470853272313849,
+        "6": 0.04234612192440747,
+        "8": 0.01579617382728336,
+        "10": 0.004789816160142967
+      },
+      "share_still_in_release": {
+        "4": 0.8275862068965517,
+        "6": 0.6904761904761905,
+        "8": 0.5853658536585366,
+        "10": 0.4146341463414634,
+        "12": 0.25
+      },
+      "last_week_with_half_still_in_release": 9,
+      "finished_runs": 78,
+      "median_multiple_finished": 1.773120297820837,
+      "median_weeks_reported_finished": 8.5
+    },
+    "Drama": {
+      "films": 70,
+      "median_week1_gross": 8289053.5,
+      "median_week1_theaters": 2487.5,
+      "median_retention": {
+        "2": 0.4454896332242284,
+        "3": 0.20045278380279097,
+        "4": 0.10230081159756757,
+        "6": 0.023278035567457132,
+        "8": 0.004234253126893403,
+        "10": 0.00143622784298414
+      },
+      "share_still_in_release": {
+        "4": 0.8823529411764706,
+        "6": 0.75,
+        "8": 0.4852941176470588,
+        "10": 0.31343283582089554,
+        "12": 0.22388059701492538
+      },
+      "last_week_with_half_still_in_release": 7,
+      "finished_runs": 66,
+      "median_multiple_finished": 1.8256208552461448,
+      "median_weeks_reported_finished": 7.0
+    },
+    "Thriller/Suspense": {
+      "films": 57,
+      "median_week1_gross": 10756318.0,
+      "median_week1_theaters": 2903.0,
+      "median_retention": {
+        "2": 0.43929040891421867,
+        "3": 0.2125816084264117,
+        "4": 0.11119557231547625,
+        "6": 0.020436357540153778,
+        "8": 0.006997199678970936,
+        "10": 0.0017832896751557388
+      },
+      "share_still_in_release": {
+        "4": 0.8363636363636363,
+        "6": 0.6470588235294118,
+        "8": 0.35294117647058826,
+        "10": 0.2,
+        "12": 0.1
+      },
+      "last_week_with_half_still_in_release": 7,
+      "finished_runs": 50,
+      "median_multiple_finished": 1.7365854998172046,
+      "median_weeks_reported_finished": 6.5
+    },
+    "Animation": {
+      "films": 54,
+      "median_week1_gross": 27049638.5,
+      "median_week1_theaters": 3472.5,
+      "median_retention": {
+        "2": 0.42198726858922303,
+        "3": 0.20857605828970463,
+        "4": 0.14927388033844818,
+        "6": 0.06313745144708952,
+        "8": 0.027498767020867943,
+        "10": 0.007199210923316251
+      },
+      "share_still_in_release": {
+        "4": 0.9230769230769231,
+        "6": 0.8076923076923077,
+        "8": 0.6730769230769231,
+        "10": 0.5294117647058824,
+        "12": 0.45098039215686275
+      },
+      "last_week_with_half_still_in_release": 11,
+      "finished_runs": 49,
+      "median_multiple_finished": 1.8561809750468568,
+      "median_weeks_reported_finished": 11.0
+    },
+    "Comedy": {
+      "films": 49,
+      "median_week1_gross": 5975269.0,
+      "median_week1_theaters": 2280.0,
+      "median_retention": {
+        "2": 0.4314605457080067,
+        "3": 0.1756003317987886,
+        "4": 0.09551326125182075,
+        "6": 0.026813089390416787,
+        "8": 0.013098915759427586,
+        "10": 0.007826315423962886
+      },
+      "share_still_in_release": {
+        "4": 0.7755102040816326,
+        "6": 0.5208333333333334,
+        "8": 0.34782608695652173,
+        "10": 0.20454545454545456,
+        "12": 0.13636363636363635
+      },
+      "last_week_with_half_still_in_release": 6,
+      "finished_runs": 43,
+      "median_multiple_finished": 1.716649092846592,
+      "median_weeks_reported_finished": 6.0
+    }
+  },
+  "holiday_weeks": {
+    "no_holiday": {
+      "film_weeks": 2745,
+      "median_change": -0.5270000266877797
+    },
+    "Christmas-New Year's": {
+      "film_weeks": 94,
+      "median_change": -0.4119868207129896
+    },
+    "Fourth of July": {
+      "film_weeks": 82,
+      "median_change": -0.560534586283109
+    },
+    "Labor Day": {
+      "film_weeks": 76,
+      "median_change": -0.3439570038500792
+    },
+    "MLK Day": {
+      "film_weeks": 55,
+      "median_change": -0.41770102588681834
+    },
+    "Memorial Day": {
+      "film_weeks": 67,
+      "median_change": -0.5838439449326567
+    },
+    "Presidents Day": {
+      "film_weeks": 69,
+      "median_change": -0.36406756766865467
+    },
+    "Thanksgiving": {
+      "film_weeks": 94,
+      "median_change": -0.5797993132901498
+    },
+    "week_after_a_holiday": {
+      "film_weeks": 370,
+      "median_change": -0.5637363401489328
+    }
+  },
+  "gross_vs_theaters": {
+    "cohort_films": 210,
+    "weeks": {
+      "1": {
+        "gross": 1.0,
+        "theaters": 1.0,
+        "per_theater": 1.0
+      },
+      "2": {
+        "gross": 0.4642,
+        "theaters": 1.0,
+        "per_theater": 0.4722
+      },
+      "3": {
+        "gross": 0.2515,
+        "theaters": 0.8827,
+        "per_theater": 0.314
+      },
+      "4": {
+        "gross": 0.1464,
+        "theaters": 0.7391,
+        "per_theater": 0.226
+      },
+      "5": {
+        "gross": 0.0838,
+        "theaters": 0.5225,
+        "per_theater": 0.1765
+      },
+      "6": {
+        "gross": 0.0456,
+        "theaters": 0.3331,
+        "per_theater": 0.1418
+      },
+      "7": {
+        "gross": 0.0204,
+        "theaters": 0.1716,
+        "per_theater": 0.1188
+      },
+      "8": {
+        "gross": 0.0087,
+        "theaters": 0.0813,
+        "per_theater": 0.0945
+      }
+    }
+  },
+  "cumulative_share_finished": {
+    "weeks": {
+      "1": {
+        "n": 431.0,
+        "q25": 0.4668,
+        "median": 0.5586,
+        "q75": 0.6704
+      },
+      "2": {
+        "n": 431.0,
+        "q25": 0.7069,
+        "median": 0.8058,
+        "q75": 0.9208
+      },
+      "3": {
+        "n": 431.0,
+        "q25": 0.8383,
+        "median": 0.9219,
+        "q75": 0.9816
+      },
+      "4": {
+        "n": 431.0,
+        "q25": 0.9164,
+        "median": 0.9702,
+        "q75": 0.996
+      },
+      "5": {
+        "n": 431.0,
+        "q25": 0.9619,
+        "median": 0.9907,
+        "q75": 1.0
+      },
+      "6": {
+        "n": 431.0,
+        "q25": 0.9826,
+        "median": 0.9971,
+        "q75": 1.0
+      },
+      "7": {
+        "n": 431.0,
+        "q25": 0.9926,
+        "median": 0.9996,
+        "q75": 1.0
+      },
+      "8": {
+        "n": 431.0,
+        "q25": 0.9966,
+        "median": 1.0,
+        "q75": 1.0
+      },
+      "9": {
+        "n": 431.0,
+        "q25": 0.9982,
+        "median": 1.0,
+        "q75": 1.0
+      },
+      "10": {
+        "n": 431.0,
+        "q25": 0.9991,
+        "median": 1.0,
+        "q75": 1.0
+      },
+      "11": {
+        "n": 431.0,
+        "q25": 0.9996,
+        "median": 1.0,
+        "q75": 1.0
+      },
+      "12": {
+        "n": 431.0,
+        "q25": 1.0,
+        "median": 1.0,
+        "q75": 1.0
+      },
+      "13": {
+        "n": 431.0,
+        "q25": 1.0,
+        "median": 1.0,
+        "q75": 1.0
+      },
+      "14": {
+        "n": 431.0,
+        "q25": 1.0,
+        "median": 1.0,
+        "q75": 1.0
+      },
+      "15": {
+        "n": 431.0,
+        "q25": 1.0,
+        "median": 1.0,
+        "q75": 1.0
+      }
+    },
+    "median_weeks_to_50pct": 1.0,
+    "share_not_reaching_50pct_by_week_15": 0.0,
+    "median_weeks_to_75pct": 2.0,
+    "share_not_reaching_75pct_by_week_15": 0.0,
+    "median_weeks_to_90pct": 3.0,
+    "share_not_reaching_90pct_by_week_15": 0.0,
+    "share_earning_half_in_week1": 0.6705336426914154,
+    "share_at_90pct_by_week4": 0.802784222737819
+  },
+  "case_study": {
+    "title": "The Fall Guy (2024)",
+    "distributor": "Universal",
+    "genre": "Action",
+    "budget": 125000000.0,
+    "final_gross": 92900355.0,
+    "multiple": 2.581,
+    "share_week1": 0.3875,
+    "share_weeks_1_2": 0.587,
+    "share_weeks_1_4": 0.819,
+    "weeks": [
+      {
+        "week": 1,
+        "week_start": "2024-05-03",
+        "gross": 35996920.0,
+        "change": null,
+        "theaters": 4002,
+        "per_theater": 8994.7,
+        "share_of_total_to_date": 0.3875,
+        "holiday": null
+      },
+      {
+        "week": 2,
+        "week_start": "2024-05-10",
+        "gross": 18539925.0,
+        "change": -0.485,
+        "theaters": 4008,
+        "per_theater": 4625.7,
+        "share_of_total_to_date": 0.587,
+        "holiday": null
+      },
+      {
+        "week": 3,
+        "week_start": "2024-05-17",
+        "gross": 11754540.0,
+        "change": -0.366,
+        "theaters": 3845,
+        "per_theater": 3057.1,
+        "share_of_total_to_date": 0.7136,
+        "holiday": null
+      },
+      {
+        "week": 4,
+        "week_start": "2024-05-24",
+        "gross": 9794020.0,
+        "change": -0.1668,
+        "theaters": 2955,
+        "per_theater": 3314.4,
+        "share_of_total_to_date": 0.819,
+        "holiday": "Memorial Day"
+      },
+      {
+        "week": 5,
+        "week_start": "2024-05-31",
+        "gross": 6336160.0,
+        "change": -0.3531,
+        "theaters": 2826,
+        "per_theater": 2242.1,
+        "share_of_total_to_date": 0.8872,
+        "holiday": null
+      },
+      {
+        "week": 6,
+        "week_start": "2024-06-07",
+        "gross": 3984735.0,
+        "change": -0.3711,
+        "theaters": 2410,
+        "per_theater": 1653.4,
+        "share_of_total_to_date": 0.9301,
+        "holiday": null
+      },
+      {
+        "week": 7,
+        "week_start": "2024-06-14",
+        "gross": 2620560.0,
+        "change": -0.3424,
+        "theaters": 1663,
+        "per_theater": 1575.8,
+        "share_of_total_to_date": 0.9583,
+        "holiday": null
+      },
+      {
+        "week": 8,
+        "week_start": "2024-06-21",
+        "gross": 1544015.0,
+        "change": -0.4108,
+        "theaters": 1111,
+        "per_theater": 1389.8,
+        "share_of_total_to_date": 0.9749,
+        "holiday": null
+      },
+      {
+        "week": 9,
+        "week_start": "2024-06-28",
+        "gross": 723210.0,
+        "change": -0.5316,
+        "theaters": 386,
+        "per_theater": 1873.6,
+        "share_of_total_to_date": 0.9827,
+        "holiday": "Fourth of July"
+      },
+      {
+        "week": 10,
+        "week_start": "2024-07-05",
+        "gross": 1149965.0,
+        "change": 0.5901,
+        "theaters": 231,
+        "per_theater": 4978.2,
+        "share_of_total_to_date": 0.9951,
+        "holiday": "Fourth of July"
+      },
+      {
+        "week": 11,
+        "week_start": "2024-07-12",
+        "gross": 456305.0,
+        "change": -0.6032,
+        "theaters": 111,
+        "per_theater": 4110.9,
+        "share_of_total_to_date": 1.0,
+        "holiday": null
+      }
+    ]
+  },
+  "contrast": {
+    "front_loaded": {
+      "title": "Joker: Folie \u00e0 Deux (2024)",
+      "genre": "Thriller/Suspense",
+      "distributor": "Warner Bros.",
+      "week1_gross": 44556473.0,
+      "week1_theaters": 4102,
+      "week2_change": -0.7822,
+      "final_gross": 58300287.0,
+      "multiple": 1.308,
+      "weeks_reported": 6,
+      "retention": {
+        "2": 0.2178,
+        "3": 0.0667,
+        "4": 0.0186,
+        "6": 0.0009,
+        "8": 0.0,
+        "10": 0.0,
+        "12": 0.0
+      },
+      "theaters": {
+        "1": 4102,
+        "2": 4102,
+        "3": 2857,
+        "4": 1243,
+        "6": 72
+      }
+    },
+    "long_legged": {
+      "title": "Sinners (2025)",
+      "genre": "Horror",
+      "distributor": "Warner Bros.",
+      "week1_gross": 77526427.0,
+      "week1_theaters": 3308,
+      "week2_change": -0.1074,
+      "final_gross": 278578513.0,
+      "multiple": 3.593,
+      "weeks_reported": 13,
+      "retention": {
+        "2": 0.8926,
+        "3": 0.6012,
+        "4": 0.4132,
+        "6": 0.1814,
+        "8": 0.0554,
+        "10": 0.0158,
+        "12": 0.0033
+      },
+      "theaters": {
+        "1": 3308,
+        "2": 3347,
+        "3": 3347,
+        "4": 3502,
+        "6": 2632,
+        "8": 1518,
+        "10": 536,
+        "12": 170
+      }
+    },
+    "pool_size": 65,
+    "pool_rule": "week-1 gross of $40M or more, Friday opening, finished run, no holiday in week 2"
+  }
+}
