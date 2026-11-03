@@ -590,9 +590,10 @@ def fig_all_curves(aligned: pd.DataFrame, films: pd.DataFrame, overall: pd.DataF
     ax.set_ylabel("Weekly gross as a share of week 1 (log scale)")
     years = films["open_chart_date"].dt.year
     ax.set_title(f"How {len(films)} wide releases decayed after opening ({years.min()}-{years.max()})")
-    ax.plot([], [], color=BLUE, alpha=0.5, lw=1, label="One line per film")
-    ax.plot([], [], color=ORANGE, lw=1.8, ls="--", label="Median once fewer than half are still in release")
-    ax.legend(loc="upper right")
+    ax.plot([], [], color=BLUE, alpha=0.6, lw=2, label="One line per film")
+    ax.plot([], [], color=ORANGE, lw=2.5, ls="--", label="Median once fewer than half are still in release")
+    ax.legend(loc="upper right", fontsize=14, handlelength=3, borderpad=0.8, labelspacing=0.6,
+              frameon=True, facecolor="white", edgecolor="#cbd5e0", framealpha=0.95)
 
     share = overall["share_reporting"]
     share_ax.bar(share.index, share, color=[GREY if r else "#cbd5e0" for r in reliable], width=0.7)
